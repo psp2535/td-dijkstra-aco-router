@@ -1,0 +1,4202 @@
+{
+  "15,21": {
+    "grid_row": 15,
+    "grid_col": 21,
+    "avg_speed_kmh": 20.455894382063477,
+    "points_count": 1098
+  },
+  "26,21": {
+    "grid_row": 26,
+    "grid_col": 21,
+    "avg_speed_kmh": 0.5751133369374278,
+    "points_count": 1061
+  },
+  "18,17": {
+    "grid_row": 18,
+    "grid_col": 17,
+    "avg_speed_kmh": 9.690859030913169,
+    "points_count": 8018
+  },
+  "7,17": {
+    "grid_row": 7,
+    "grid_col": 17,
+    "avg_speed_kmh": 52.75618854662274,
+    "points_count": 13
+  },
+  "18,26": {
+    "grid_row": 18,
+    "grid_col": 26,
+    "avg_speed_kmh": 31.314094550838526,
+    "points_count": 7
+  },
+  "27,4": {
+    "grid_row": 27,
+    "grid_col": 4,
+    "avg_speed_kmh": 20.71334584265731,
+    "points_count": 14
+  },
+  "8,0": {
+    "grid_row": 8,
+    "grid_col": 0,
+    "avg_speed_kmh": 38.11653541546976,
+    "points_count": 4
+  },
+  "27,13": {
+    "grid_row": 27,
+    "grid_col": 13,
+    "avg_speed_kmh": 56.25601648214728,
+    "points_count": 3
+  },
+  "19,9": {
+    "grid_row": 19,
+    "grid_col": 9,
+    "avg_speed_kmh": 16.773105833504957,
+    "points_count": 244
+  },
+  "8,9": {
+    "grid_row": 8,
+    "grid_col": 9,
+    "avg_speed_kmh": 49.930625746000715,
+    "points_count": 8
+  },
+  "11,5": {
+    "grid_row": 11,
+    "grid_col": 5,
+    "avg_speed_kmh": 3.5765257409896822,
+    "points_count": 2430
+  },
+  "19,18": {
+    "grid_row": 19,
+    "grid_col": 18,
+    "avg_speed_kmh": 5.045383704933878,
+    "points_count": 4161
+  },
+  "8,18": {
+    "grid_row": 8,
+    "grid_col": 18,
+    "avg_speed_kmh": 0.5480555330156827,
+    "points_count": 955
+  },
+  "11,14": {
+    "grid_row": 11,
+    "grid_col": 14,
+    "avg_speed_kmh": 8.12957477572506,
+    "points_count": 1809
+  },
+  "0,14": {
+    "grid_row": 0,
+    "grid_col": 14,
+    "avg_speed_kmh": 26.8856150938205,
+    "points_count": 5
+  },
+  "11,23": {
+    "grid_row": 11,
+    "grid_col": 23,
+    "avg_speed_kmh": 38.427573318493096,
+    "points_count": 12
+  },
+  "10,27": {
+    "grid_row": 10,
+    "grid_col": 27,
+    "avg_speed_kmh": 42.2625148843584,
+    "points_count": 12
+  },
+  "25,25": {
+    "grid_row": 25,
+    "grid_col": 25,
+    "avg_speed_kmh": 33.34868497402622,
+    "points_count": 11
+  },
+  "4,2": {
+    "grid_row": 4,
+    "grid_col": 2,
+    "avg_speed_kmh": 64.97219854528095,
+    "points_count": 8
+  },
+  "22,10": {
+    "grid_row": 22,
+    "grid_col": 10,
+    "avg_speed_kmh": 48.535373295258054,
+    "points_count": 195
+  },
+  "22,19": {
+    "grid_row": 22,
+    "grid_col": 19,
+    "avg_speed_kmh": 36.429830249377574,
+    "points_count": 52
+  },
+  "14,15": {
+    "grid_row": 14,
+    "grid_col": 15,
+    "avg_speed_kmh": 13.049080824111286,
+    "points_count": 8146
+  },
+  "3,15": {
+    "grid_row": 3,
+    "grid_col": 15,
+    "avg_speed_kmh": 8.99063157727472,
+    "points_count": 34
+  },
+  "22,28": {
+    "grid_row": 22,
+    "grid_col": 28,
+    "avg_speed_kmh": 34.150463471112225,
+    "points_count": 55
+  },
+  "14,24": {
+    "grid_row": 14,
+    "grid_col": 24,
+    "avg_speed_kmh": 18.90023945663778,
+    "points_count": 293
+  },
+  "15,7": {
+    "grid_row": 15,
+    "grid_col": 7,
+    "avg_speed_kmh": 13.031609863312902,
+    "points_count": 1319
+  },
+  "26,7": {
+    "grid_row": 26,
+    "grid_col": 7,
+    "avg_speed_kmh": 26.9574947015009,
+    "points_count": 35
+  },
+  "7,3": {
+    "grid_row": 7,
+    "grid_col": 3,
+    "avg_speed_kmh": 60.535949526238205,
+    "points_count": 14
+  },
+  "18,3": {
+    "grid_row": 18,
+    "grid_col": 3,
+    "avg_speed_kmh": 30.42849903675033,
+    "points_count": 2
+  },
+  "15,16": {
+    "grid_row": 15,
+    "grid_col": 16,
+    "avg_speed_kmh": 15.0389629237667,
+    "points_count": 11193
+  },
+  "18,12": {
+    "grid_row": 18,
+    "grid_col": 12,
+    "avg_speed_kmh": 13.76877465235981,
+    "points_count": 4325
+  },
+  "7,12": {
+    "grid_row": 7,
+    "grid_col": 12,
+    "avg_speed_kmh": 43.32842549338779,
+    "points_count": 63
+  },
+  "15,25": {
+    "grid_row": 15,
+    "grid_col": 25,
+    "avg_speed_kmh": 16.180148592072452,
+    "points_count": 256
+  },
+  "26,25": {
+    "grid_row": 26,
+    "grid_col": 25,
+    "avg_speed_kmh": 1.4759840089999803,
+    "points_count": 329
+  },
+  "18,21": {
+    "grid_row": 18,
+    "grid_col": 21,
+    "avg_speed_kmh": 33.810579917205246,
+    "points_count": 45
+  },
+  "7,21": {
+    "grid_row": 7,
+    "grid_col": 21,
+    "avg_speed_kmh": 34.19545147319243,
+    "points_count": 16
+  },
+  "27,8": {
+    "grid_row": 27,
+    "grid_col": 8,
+    "avg_speed_kmh": 10.306018422467448,
+    "points_count": 98
+  },
+  "29,27": {
+    "grid_row": 29,
+    "grid_col": 27,
+    "avg_speed_kmh": 16.09625987207247,
+    "points_count": 1
+  },
+  "8,4": {
+    "grid_row": 8,
+    "grid_col": 4,
+    "avg_speed_kmh": 4.980926389320317,
+    "points_count": 1632
+  },
+  "11,0": {
+    "grid_row": 11,
+    "grid_col": 0,
+    "avg_speed_kmh": 28.78752017623361,
+    "points_count": 1
+  },
+  "11,9": {
+    "grid_row": 11,
+    "grid_col": 9,
+    "avg_speed_kmh": 8.766505828188532,
+    "points_count": 113
+  },
+  "25,11": {
+    "grid_row": 25,
+    "grid_col": 11,
+    "avg_speed_kmh": 17.78687771584668,
+    "points_count": 52
+  },
+  "10,22": {
+    "grid_row": 10,
+    "grid_col": 22,
+    "avg_speed_kmh": 22.79502701110861,
+    "points_count": 4
+  },
+  "25,20": {
+    "grid_row": 25,
+    "grid_col": 20,
+    "avg_speed_kmh": 52.25018373900526,
+    "points_count": 11
+  },
+  "22,5": {
+    "grid_row": 22,
+    "grid_col": 5,
+    "avg_speed_kmh": 13.4367286192364,
+    "points_count": 9
+  },
+  "14,1": {
+    "grid_row": 14,
+    "grid_col": 1,
+    "avg_speed_kmh": 17.411181558913597,
+    "points_count": 2
+  },
+  "3,1": {
+    "grid_row": 3,
+    "grid_col": 1,
+    "avg_speed_kmh": 2.190127538420782,
+    "points_count": 117
+  },
+  "22,14": {
+    "grid_row": 22,
+    "grid_col": 14,
+    "avg_speed_kmh": 21.68680195315417,
+    "points_count": 88
+  },
+  "14,10": {
+    "grid_row": 14,
+    "grid_col": 10,
+    "avg_speed_kmh": 19.131428073583724,
+    "points_count": 3339
+  },
+  "3,10": {
+    "grid_row": 3,
+    "grid_col": 10,
+    "avg_speed_kmh": 16.37453901604508,
+    "points_count": 27
+  },
+  "22,23": {
+    "grid_row": 22,
+    "grid_col": 23,
+    "avg_speed_kmh": 19.3913422627619,
+    "points_count": 11
+  },
+  "14,19": {
+    "grid_row": 14,
+    "grid_col": 19,
+    "avg_speed_kmh": 18.88858596672552,
+    "points_count": 140
+  },
+  "3,28": {
+    "grid_row": 3,
+    "grid_col": 28,
+    "avg_speed_kmh": 32.04371544571738,
+    "points_count": 16
+  },
+  "14,28": {
+    "grid_row": 14,
+    "grid_col": 28,
+    "avg_speed_kmh": 17.172876084933154,
+    "points_count": 4
+  },
+  "15,11": {
+    "grid_row": 15,
+    "grid_col": 11,
+    "avg_speed_kmh": 16.150598403055163,
+    "points_count": 7502
+  },
+  "26,11": {
+    "grid_row": 26,
+    "grid_col": 11,
+    "avg_speed_kmh": 43.87292921381915,
+    "points_count": 5
+  },
+  "18,7": {
+    "grid_row": 18,
+    "grid_col": 7,
+    "avg_speed_kmh": 22.82291126259473,
+    "points_count": 32
+  },
+  "7,7": {
+    "grid_row": 7,
+    "grid_col": 7,
+    "avg_speed_kmh": 41.17955681624047,
+    "points_count": 5
+  },
+  "26,20": {
+    "grid_row": 26,
+    "grid_col": 20,
+    "avg_speed_kmh": 26.797204201999772,
+    "points_count": 19
+  },
+  "18,16": {
+    "grid_row": 18,
+    "grid_col": 16,
+    "avg_speed_kmh": 23.196482317662607,
+    "points_count": 1846
+  },
+  "29,22": {
+    "grid_row": 29,
+    "grid_col": 22,
+    "avg_speed_kmh": 12.396887492165845,
+    "points_count": 32
+  },
+  "21,18": {
+    "grid_row": 21,
+    "grid_col": 18,
+    "avg_speed_kmh": 44.40112065733701,
+    "points_count": 13
+  },
+  "6,29": {
+    "grid_row": 6,
+    "grid_col": 29,
+    "avg_speed_kmh": 20.220490978754786,
+    "points_count": 7
+  },
+  "21,27": {
+    "grid_row": 21,
+    "grid_col": 27,
+    "avg_speed_kmh": 57.483820597894606,
+    "points_count": 25
+  },
+  "11,4": {
+    "grid_row": 11,
+    "grid_col": 4,
+    "avg_speed_kmh": 25.02535417419425,
+    "points_count": 188
+  },
+  "10,8": {
+    "grid_row": 10,
+    "grid_col": 8,
+    "avg_speed_kmh": 28.02415499233066,
+    "points_count": 33
+  },
+  "25,6": {
+    "grid_row": 25,
+    "grid_col": 6,
+    "avg_speed_kmh": 15.001162518219417,
+    "points_count": 6
+  },
+  "10,17": {
+    "grid_row": 10,
+    "grid_col": 17,
+    "avg_speed_kmh": 18.254384861210653,
+    "points_count": 92
+  },
+  "25,15": {
+    "grid_row": 25,
+    "grid_col": 15,
+    "avg_speed_kmh": 14.987987583106394,
+    "points_count": 58
+  },
+  "10,26": {
+    "grid_row": 10,
+    "grid_col": 26,
+    "avg_speed_kmh": 57.0510912222972,
+    "points_count": 2
+  },
+  "25,24": {
+    "grid_row": 25,
+    "grid_col": 24,
+    "avg_speed_kmh": 27.64420207753955,
+    "points_count": 27
+  },
+  "22,9": {
+    "grid_row": 22,
+    "grid_col": 9,
+    "avg_speed_kmh": 29.03725580187151,
+    "points_count": 5
+  },
+  "14,5": {
+    "grid_row": 14,
+    "grid_col": 5,
+    "avg_speed_kmh": 39.99301182844162,
+    "points_count": 42
+  },
+  "3,5": {
+    "grid_row": 3,
+    "grid_col": 5,
+    "avg_speed_kmh": 29.532646688542314,
+    "points_count": 1
+  },
+  "22,18": {
+    "grid_row": 22,
+    "grid_col": 18,
+    "avg_speed_kmh": 26.912696977453052,
+    "points_count": 82
+  },
+  "14,14": {
+    "grid_row": 14,
+    "grid_col": 14,
+    "avg_speed_kmh": 13.43869110561326,
+    "points_count": 6113
+  },
+  "3,14": {
+    "grid_row": 3,
+    "grid_col": 14,
+    "avg_speed_kmh": 2.268695640437907,
+    "points_count": 28
+  },
+  "22,27": {
+    "grid_row": 22,
+    "grid_col": 27,
+    "avg_speed_kmh": 49.744950535191876,
+    "points_count": 30
+  },
+  "14,23": {
+    "grid_row": 14,
+    "grid_col": 23,
+    "avg_speed_kmh": 17.73474513817569,
+    "points_count": 129
+  },
+  "3,23": {
+    "grid_row": 3,
+    "grid_col": 23,
+    "avg_speed_kmh": 14.894753788707808,
+    "points_count": 5
+  },
+  "15,6": {
+    "grid_row": 15,
+    "grid_col": 6,
+    "avg_speed_kmh": 3.9909590021235846,
+    "points_count": 2075
+  },
+  "26,6": {
+    "grid_row": 26,
+    "grid_col": 6,
+    "avg_speed_kmh": 29.72684145161901,
+    "points_count": 12
+  },
+  "17,25": {
+    "grid_row": 17,
+    "grid_col": 25,
+    "avg_speed_kmh": 5.469404204630782,
+    "points_count": 75
+  },
+  "18,2": {
+    "grid_row": 18,
+    "grid_col": 2,
+    "avg_speed_kmh": 33.80858334085336,
+    "points_count": 1
+  },
+  "7,2": {
+    "grid_row": 7,
+    "grid_col": 2,
+    "avg_speed_kmh": 25.877810179008268,
+    "points_count": 34
+  },
+  "18,11": {
+    "grid_row": 18,
+    "grid_col": 11,
+    "avg_speed_kmh": 19.76505980306252,
+    "points_count": 2280
+  },
+  "7,11": {
+    "grid_row": 7,
+    "grid_col": 11,
+    "avg_speed_kmh": 35.855461092602525,
+    "points_count": 4
+  },
+  "29,8": {
+    "grid_row": 29,
+    "grid_col": 8,
+    "avg_speed_kmh": 13.55114955904387,
+    "points_count": 17
+  },
+  "6,15": {
+    "grid_row": 6,
+    "grid_col": 15,
+    "avg_speed_kmh": 16.372843564336087,
+    "points_count": 156
+  },
+  "21,13": {
+    "grid_row": 21,
+    "grid_col": 13,
+    "avg_speed_kmh": 17.80998598990111,
+    "points_count": 323
+  },
+  "6,24": {
+    "grid_row": 6,
+    "grid_col": 24,
+    "avg_speed_kmh": 28.680779565338078,
+    "points_count": 40
+  },
+  "29,26": {
+    "grid_row": 29,
+    "grid_col": 26,
+    "avg_speed_kmh": 108.97147034323243,
+    "points_count": 2
+  },
+  "21,22": {
+    "grid_row": 21,
+    "grid_col": 22,
+    "avg_speed_kmh": 13.717913795679559,
+    "points_count": 449
+  },
+  "10,3": {
+    "grid_row": 10,
+    "grid_col": 3,
+    "avg_speed_kmh": 26.169049758546983,
+    "points_count": 15
+  },
+  "10,12": {
+    "grid_row": 10,
+    "grid_col": 12,
+    "avg_speed_kmh": 18.175258141596643,
+    "points_count": 808
+  },
+  "25,10": {
+    "grid_row": 25,
+    "grid_col": 10,
+    "avg_speed_kmh": 30.97676269385108,
+    "points_count": 33
+  },
+  "10,21": {
+    "grid_row": 10,
+    "grid_col": 21,
+    "avg_speed_kmh": 12.603728488696916,
+    "points_count": 5
+  },
+  "25,19": {
+    "grid_row": 25,
+    "grid_col": 19,
+    "avg_speed_kmh": 24.833363291819225,
+    "points_count": 1
+  },
+  "25,28": {
+    "grid_row": 25,
+    "grid_col": 28,
+    "avg_speed_kmh": 3.0645751008233106,
+    "points_count": 43
+  },
+  "2,26": {
+    "grid_row": 2,
+    "grid_col": 26,
+    "avg_speed_kmh": 52.925796654814526,
+    "points_count": 4
+  },
+  "22,4": {
+    "grid_row": 22,
+    "grid_col": 4,
+    "avg_speed_kmh": 13.491596107633132,
+    "points_count": 49
+  },
+  "14,0": {
+    "grid_row": 14,
+    "grid_col": 0,
+    "avg_speed_kmh": 5.15292513444477,
+    "points_count": 15
+  },
+  "3,0": {
+    "grid_row": 3,
+    "grid_col": 0,
+    "avg_speed_kmh": 10.224830235019802,
+    "points_count": 13
+  },
+  "22,13": {
+    "grid_row": 22,
+    "grid_col": 13,
+    "avg_speed_kmh": 25.15663278916786,
+    "points_count": 84
+  },
+  "14,9": {
+    "grid_row": 14,
+    "grid_col": 9,
+    "avg_speed_kmh": 20.51670237317616,
+    "points_count": 1027
+  },
+  "14,18": {
+    "grid_row": 14,
+    "grid_col": 18,
+    "avg_speed_kmh": 17.638485895456924,
+    "points_count": 1924
+  },
+  "26,1": {
+    "grid_row": 26,
+    "grid_col": 1,
+    "avg_speed_kmh": 15.292028890172054,
+    "points_count": 4
+  },
+  "17,20": {
+    "grid_row": 17,
+    "grid_col": 20,
+    "avg_speed_kmh": 3.9615526981333447,
+    "points_count": 1568
+  },
+  "28,20": {
+    "grid_row": 28,
+    "grid_col": 20,
+    "avg_speed_kmh": 68.13301209383842,
+    "points_count": 8
+  },
+  "5,27": {
+    "grid_row": 5,
+    "grid_col": 27,
+    "avg_speed_kmh": 77.46074375245163,
+    "points_count": 3
+  },
+  "28,29": {
+    "grid_row": 28,
+    "grid_col": 29,
+    "avg_speed_kmh": 53.42425773515306,
+    "points_count": 2
+  },
+  "9,25": {
+    "grid_row": 9,
+    "grid_col": 25,
+    "avg_speed_kmh": 21.106135088674254,
+    "points_count": 10
+  },
+  "29,3": {
+    "grid_row": 29,
+    "grid_col": 3,
+    "avg_speed_kmh": 48.1179706828251,
+    "points_count": 3
+  },
+  "6,10": {
+    "grid_row": 6,
+    "grid_col": 10,
+    "avg_speed_kmh": 32.25275224640041,
+    "points_count": 4
+  },
+  "21,8": {
+    "grid_row": 21,
+    "grid_col": 8,
+    "avg_speed_kmh": 13.519521483208655,
+    "points_count": 91
+  },
+  "6,19": {
+    "grid_row": 6,
+    "grid_col": 19,
+    "avg_speed_kmh": 39.511076828228035,
+    "points_count": 17
+  },
+  "29,21": {
+    "grid_row": 29,
+    "grid_col": 21,
+    "avg_speed_kmh": 19.287676455498115,
+    "points_count": 33
+  },
+  "21,17": {
+    "grid_row": 21,
+    "grid_col": 17,
+    "avg_speed_kmh": 52.46911800890166,
+    "points_count": 58
+  },
+  "21,26": {
+    "grid_row": 21,
+    "grid_col": 26,
+    "avg_speed_kmh": 55.52344049988321,
+    "points_count": 31
+  },
+  "10,7": {
+    "grid_row": 10,
+    "grid_col": 7,
+    "avg_speed_kmh": 61.466472243265535,
+    "points_count": 56
+  },
+  "25,5": {
+    "grid_row": 25,
+    "grid_col": 5,
+    "avg_speed_kmh": 14.695300047046882,
+    "points_count": 14
+  },
+  "2,3": {
+    "grid_row": 2,
+    "grid_col": 3,
+    "avg_speed_kmh": 0.15626109307300032,
+    "points_count": 638
+  },
+  "10,16": {
+    "grid_row": 10,
+    "grid_col": 16,
+    "avg_speed_kmh": 19.393289772246597,
+    "points_count": 80
+  },
+  "2,12": {
+    "grid_row": 2,
+    "grid_col": 12,
+    "avg_speed_kmh": 41.99742750523825,
+    "points_count": 7
+  },
+  "25,14": {
+    "grid_row": 25,
+    "grid_col": 14,
+    "avg_speed_kmh": 33.77895353006671,
+    "points_count": 21
+  },
+  "10,25": {
+    "grid_row": 10,
+    "grid_col": 25,
+    "avg_speed_kmh": 43.81442265190487,
+    "points_count": 4
+  },
+  "22,8": {
+    "grid_row": 22,
+    "grid_col": 8,
+    "avg_speed_kmh": 14.413251045358237,
+    "points_count": 28
+  },
+  "13,27": {
+    "grid_row": 13,
+    "grid_col": 27,
+    "avg_speed_kmh": 36.23068051367819,
+    "points_count": 40
+  },
+  "24,27": {
+    "grid_row": 24,
+    "grid_col": 27,
+    "avg_speed_kmh": 10.46540368413591,
+    "points_count": 6
+  },
+  "14,4": {
+    "grid_row": 14,
+    "grid_col": 4,
+    "avg_speed_kmh": 23.275517076459508,
+    "points_count": 48
+  },
+  "3,4": {
+    "grid_row": 3,
+    "grid_col": 4,
+    "avg_speed_kmh": 1.4187228574787492,
+    "points_count": 165
+  },
+  "17,15": {
+    "grid_row": 17,
+    "grid_col": 15,
+    "avg_speed_kmh": 14.326549489455884,
+    "points_count": 8150
+  },
+  "28,15": {
+    "grid_row": 28,
+    "grid_col": 15,
+    "avg_speed_kmh": 0.0,
+    "points_count": 1
+  },
+  "9,11": {
+    "grid_row": 9,
+    "grid_col": 11,
+    "avg_speed_kmh": 24.8863087240431,
+    "points_count": 115
+  },
+  "17,24": {
+    "grid_row": 17,
+    "grid_col": 24,
+    "avg_speed_kmh": 36.00335479565757,
+    "points_count": 23
+  },
+  "5,22": {
+    "grid_row": 5,
+    "grid_col": 22,
+    "avg_speed_kmh": 1.2297787783020848,
+    "points_count": 392
+  },
+  "28,24": {
+    "grid_row": 28,
+    "grid_col": 24,
+    "avg_speed_kmh": 0.13904732650173424,
+    "points_count": 23
+  },
+  "9,20": {
+    "grid_row": 9,
+    "grid_col": 20,
+    "avg_speed_kmh": 2.337869274809028,
+    "points_count": 2355
+  },
+  "9,29": {
+    "grid_row": 9,
+    "grid_col": 29,
+    "avg_speed_kmh": 37.90358958397495,
+    "points_count": 8
+  },
+  "29,7": {
+    "grid_row": 29,
+    "grid_col": 7,
+    "avg_speed_kmh": 36.00388599563817,
+    "points_count": 3
+  },
+  "6,5": {
+    "grid_row": 6,
+    "grid_col": 5,
+    "avg_speed_kmh": 22.045140044036742,
+    "points_count": 80
+  },
+  "21,3": {
+    "grid_row": 21,
+    "grid_col": 3,
+    "avg_speed_kmh": 10.973288697004172,
+    "points_count": 6
+  },
+  "6,14": {
+    "grid_row": 6,
+    "grid_col": 14,
+    "avg_speed_kmh": 51.39003195843975,
+    "points_count": 13
+  },
+  "21,12": {
+    "grid_row": 21,
+    "grid_col": 12,
+    "avg_speed_kmh": 13.935402523888458,
+    "points_count": 641
+  },
+  "6,23": {
+    "grid_row": 6,
+    "grid_col": 23,
+    "avg_speed_kmh": 50.57125729928329,
+    "points_count": 8
+  },
+  "21,21": {
+    "grid_row": 21,
+    "grid_col": 21,
+    "avg_speed_kmh": 6.30261877698429,
+    "points_count": 10614
+  },
+  "10,2": {
+    "grid_row": 10,
+    "grid_col": 2,
+    "avg_speed_kmh": 2.2637441867320858,
+    "points_count": 22
+  },
+  "10,11": {
+    "grid_row": 10,
+    "grid_col": 11,
+    "avg_speed_kmh": 2.2954148238892045,
+    "points_count": 1294
+  },
+  "25,9": {
+    "grid_row": 25,
+    "grid_col": 9,
+    "avg_speed_kmh": 20.53643573806679,
+    "points_count": 13
+  },
+  "2,16": {
+    "grid_row": 2,
+    "grid_col": 16,
+    "avg_speed_kmh": 0.34045647193608863,
+    "points_count": 880
+  },
+  "13,13": {
+    "grid_row": 13,
+    "grid_col": 13,
+    "avg_speed_kmh": 14.870236927772517,
+    "points_count": 6044
+  },
+  "24,13": {
+    "grid_row": 24,
+    "grid_col": 13,
+    "avg_speed_kmh": 9.952947101313056,
+    "points_count": 7
+  },
+  "13,22": {
+    "grid_row": 13,
+    "grid_col": 22,
+    "avg_speed_kmh": 40.10901245583852,
+    "points_count": 25
+  },
+  "24,22": {
+    "grid_row": 24,
+    "grid_col": 22,
+    "avg_speed_kmh": 47.9266327198005,
+    "points_count": 161
+  },
+  "16,18": {
+    "grid_row": 16,
+    "grid_col": 18,
+    "avg_speed_kmh": 15.279392881609128,
+    "points_count": 3442
+  },
+  "16,27": {
+    "grid_row": 16,
+    "grid_col": 27,
+    "avg_speed_kmh": 39.346120502370944,
+    "points_count": 11
+  },
+  "17,10": {
+    "grid_row": 17,
+    "grid_col": 10,
+    "avg_speed_kmh": 19.858308485180277,
+    "points_count": 1695
+  },
+  "9,6": {
+    "grid_row": 9,
+    "grid_col": 6,
+    "avg_speed_kmh": 12.705490460177767,
+    "points_count": 152
+  },
+  "17,19": {
+    "grid_row": 17,
+    "grid_col": 19,
+    "avg_speed_kmh": 4.338989234666048,
+    "points_count": 2575
+  },
+  "9,15": {
+    "grid_row": 9,
+    "grid_col": 15,
+    "avg_speed_kmh": 3.893106943607071,
+    "points_count": 305
+  },
+  "5,26": {
+    "grid_row": 5,
+    "grid_col": 26,
+    "avg_speed_kmh": 89.79720306995058,
+    "points_count": 7
+  },
+  "17,28": {
+    "grid_row": 17,
+    "grid_col": 28,
+    "avg_speed_kmh": 55.24959756197605,
+    "points_count": 1
+  },
+  "28,28": {
+    "grid_row": 28,
+    "grid_col": 28,
+    "avg_speed_kmh": 28.044778365724866,
+    "points_count": 1
+  },
+  "9,24": {
+    "grid_row": 9,
+    "grid_col": 24,
+    "avg_speed_kmh": 22.89779706952543,
+    "points_count": 4
+  },
+  "6,0": {
+    "grid_row": 6,
+    "grid_col": 0,
+    "avg_speed_kmh": 8.278105012586277,
+    "points_count": 30
+  },
+  "29,2": {
+    "grid_row": 29,
+    "grid_col": 2,
+    "avg_speed_kmh": 76.78266848771855,
+    "points_count": 4
+  },
+  "21,7": {
+    "grid_row": 21,
+    "grid_col": 7,
+    "avg_speed_kmh": 31.725003742012614,
+    "points_count": 19
+  },
+  "6,18": {
+    "grid_row": 6,
+    "grid_col": 18,
+    "avg_speed_kmh": 53.074190371011106,
+    "points_count": 6
+  },
+  "21,16": {
+    "grid_row": 21,
+    "grid_col": 16,
+    "avg_speed_kmh": 6.372056344070215,
+    "points_count": 1137
+  },
+  "20,20": {
+    "grid_row": 20,
+    "grid_col": 20,
+    "avg_speed_kmh": 35.191468374247535,
+    "points_count": 302
+  },
+  "20,29": {
+    "grid_row": 20,
+    "grid_col": 29,
+    "avg_speed_kmh": 15.16819612438534,
+    "points_count": 30
+  },
+  "10,6": {
+    "grid_row": 10,
+    "grid_col": 6,
+    "avg_speed_kmh": 32.162367993171834,
+    "points_count": 235
+  },
+  "23,25": {
+    "grid_row": 23,
+    "grid_col": 25,
+    "avg_speed_kmh": 19.429409864563446,
+    "points_count": 427
+  },
+  "12,25": {
+    "grid_row": 12,
+    "grid_col": 25,
+    "avg_speed_kmh": 0.0,
+    "points_count": 1
+  },
+  "2,2": {
+    "grid_row": 2,
+    "grid_col": 2,
+    "avg_speed_kmh": 33.47426998016739,
+    "points_count": 1
+  },
+  "2,11": {
+    "grid_row": 2,
+    "grid_col": 11,
+    "avg_speed_kmh": 65.55795840363457,
+    "points_count": 14
+  },
+  "13,8": {
+    "grid_row": 13,
+    "grid_col": 8,
+    "avg_speed_kmh": 37.793629127418924,
+    "points_count": 417
+  },
+  "24,8": {
+    "grid_row": 24,
+    "grid_col": 8,
+    "avg_speed_kmh": 44.757529631905975,
+    "points_count": 23
+  },
+  "13,17": {
+    "grid_row": 13,
+    "grid_col": 17,
+    "avg_speed_kmh": 16.410655869265696,
+    "points_count": 1951
+  },
+  "24,17": {
+    "grid_row": 24,
+    "grid_col": 17,
+    "avg_speed_kmh": 15.687297000290073,
+    "points_count": 44
+  },
+  "16,13": {
+    "grid_row": 16,
+    "grid_col": 13,
+    "avg_speed_kmh": 14.429761064530902,
+    "points_count": 11498
+  },
+  "13,26": {
+    "grid_row": 13,
+    "grid_col": 26,
+    "avg_speed_kmh": 35.35586832800078,
+    "points_count": 57
+  },
+  "24,26": {
+    "grid_row": 24,
+    "grid_col": 26,
+    "avg_speed_kmh": 31.773775538635505,
+    "points_count": 8
+  },
+  "16,22": {
+    "grid_row": 16,
+    "grid_col": 22,
+    "avg_speed_kmh": 0.4952924950094681,
+    "points_count": 1014
+  },
+  "5,3": {
+    "grid_row": 5,
+    "grid_col": 3,
+    "avg_speed_kmh": 52.58526333795822,
+    "points_count": 1
+  },
+  "9,1": {
+    "grid_row": 9,
+    "grid_col": 1,
+    "avg_speed_kmh": 16.397749815118647,
+    "points_count": 14
+  },
+  "17,14": {
+    "grid_row": 17,
+    "grid_col": 14,
+    "avg_speed_kmh": 11.729795374271593,
+    "points_count": 9073
+  },
+  "5,12": {
+    "grid_row": 5,
+    "grid_col": 12,
+    "avg_speed_kmh": 3.3575110713907876,
+    "points_count": 31
+  },
+  "9,10": {
+    "grid_row": 9,
+    "grid_col": 10,
+    "avg_speed_kmh": 3.8275063931519693,
+    "points_count": 629
+  },
+  "28,23": {
+    "grid_row": 28,
+    "grid_col": 23,
+    "avg_speed_kmh": 34.64640073693969,
+    "points_count": 83
+  },
+  "5,21": {
+    "grid_row": 5,
+    "grid_col": 21,
+    "avg_speed_kmh": 45.282980747234674,
+    "points_count": 4
+  },
+  "17,23": {
+    "grid_row": 17,
+    "grid_col": 23,
+    "avg_speed_kmh": 16.03707553760582,
+    "points_count": 3
+  },
+  "9,19": {
+    "grid_row": 9,
+    "grid_col": 19,
+    "avg_speed_kmh": 27.218741513084684,
+    "points_count": 22
+  },
+  "9,28": {
+    "grid_row": 9,
+    "grid_col": 28,
+    "avg_speed_kmh": 41.5097626954944,
+    "points_count": 1
+  },
+  "6,4": {
+    "grid_row": 6,
+    "grid_col": 4,
+    "avg_speed_kmh": 17.548281133739685,
+    "points_count": 10
+  },
+  "6,13": {
+    "grid_row": 6,
+    "grid_col": 13,
+    "avg_speed_kmh": 77.86431085706629,
+    "points_count": 5
+  },
+  "20,15": {
+    "grid_row": 20,
+    "grid_col": 15,
+    "avg_speed_kmh": 18.902160462131427,
+    "points_count": 1059
+  },
+  "20,24": {
+    "grid_row": 20,
+    "grid_col": 24,
+    "avg_speed_kmh": 39.43125649266773,
+    "points_count": 55
+  },
+  "23,20": {
+    "grid_row": 23,
+    "grid_col": 20,
+    "avg_speed_kmh": 34.053244304058786,
+    "points_count": 107
+  },
+  "12,20": {
+    "grid_row": 12,
+    "grid_col": 20,
+    "avg_speed_kmh": 23.181619348875852,
+    "points_count": 80
+  },
+  "12,29": {
+    "grid_row": 12,
+    "grid_col": 29,
+    "avg_speed_kmh": 35.69028197843835,
+    "points_count": 19
+  },
+  "23,29": {
+    "grid_row": 23,
+    "grid_col": 29,
+    "avg_speed_kmh": 0.21106550424696502,
+    "points_count": 703
+  },
+  "4,25": {
+    "grid_row": 4,
+    "grid_col": 25,
+    "avg_speed_kmh": 19.064019010967957,
+    "points_count": 10
+  },
+  "13,3": {
+    "grid_row": 13,
+    "grid_col": 3,
+    "avg_speed_kmh": 9.743878873201863,
+    "points_count": 39
+  },
+  "13,12": {
+    "grid_row": 13,
+    "grid_col": 12,
+    "avg_speed_kmh": 20.61590594338232,
+    "points_count": 3215
+  },
+  "24,12": {
+    "grid_row": 24,
+    "grid_col": 12,
+    "avg_speed_kmh": 7.459772185256375,
+    "points_count": 31
+  },
+  "16,8": {
+    "grid_row": 16,
+    "grid_col": 8,
+    "avg_speed_kmh": 22.83877345768328,
+    "points_count": 102
+  },
+  "13,21": {
+    "grid_row": 13,
+    "grid_col": 21,
+    "avg_speed_kmh": 27.404093952525184,
+    "points_count": 72
+  },
+  "24,21": {
+    "grid_row": 24,
+    "grid_col": 21,
+    "avg_speed_kmh": 9.83871529371192,
+    "points_count": 199
+  },
+  "16,17": {
+    "grid_row": 16,
+    "grid_col": 17,
+    "avg_speed_kmh": 17.088781408594752,
+    "points_count": 7412
+  },
+  "1,28": {
+    "grid_row": 1,
+    "grid_col": 28,
+    "avg_speed_kmh": 57.565677327234,
+    "points_count": 2
+  },
+  "16,26": {
+    "grid_row": 16,
+    "grid_col": 26,
+    "avg_speed_kmh": 14.715715871921986,
+    "points_count": 16
+  },
+  "17,0": {
+    "grid_row": 17,
+    "grid_col": 0,
+    "avg_speed_kmh": 31.60376409747973,
+    "points_count": 1
+  },
+  "17,9": {
+    "grid_row": 17,
+    "grid_col": 9,
+    "avg_speed_kmh": 3.9706572230140744,
+    "points_count": 1330
+  },
+  "28,9": {
+    "grid_row": 28,
+    "grid_col": 9,
+    "avg_speed_kmh": 32.79546577824017,
+    "points_count": 2
+  },
+  "5,7": {
+    "grid_row": 5,
+    "grid_col": 7,
+    "avg_speed_kmh": 54.85108587159419,
+    "points_count": 2
+  },
+  "9,5": {
+    "grid_row": 9,
+    "grid_col": 5,
+    "avg_speed_kmh": 34.12507998816896,
+    "points_count": 351
+  },
+  "5,16": {
+    "grid_row": 5,
+    "grid_col": 16,
+    "avg_speed_kmh": 61.498476726648235,
+    "points_count": 11
+  },
+  "9,14": {
+    "grid_row": 9,
+    "grid_col": 14,
+    "avg_speed_kmh": 33.032165170457574,
+    "points_count": 67
+  },
+  "5,25": {
+    "grid_row": 5,
+    "grid_col": 25,
+    "avg_speed_kmh": 2.996554742080835,
+    "points_count": 211
+  },
+  "27,22": {
+    "grid_row": 27,
+    "grid_col": 22,
+    "avg_speed_kmh": 18.023508068756392,
+    "points_count": 5
+  },
+  "8,27": {
+    "grid_row": 8,
+    "grid_col": 27,
+    "avg_speed_kmh": 39.52593883938425,
+    "points_count": 2
+  },
+  "19,27": {
+    "grid_row": 19,
+    "grid_col": 27,
+    "avg_speed_kmh": 14.536438195522441,
+    "points_count": 4
+  },
+  "20,10": {
+    "grid_row": 20,
+    "grid_col": 10,
+    "avg_speed_kmh": 21.167417444980384,
+    "points_count": 130
+  },
+  "12,6": {
+    "grid_row": 12,
+    "grid_col": 6,
+    "avg_speed_kmh": 32.96407466710649,
+    "points_count": 169
+  },
+  "23,6": {
+    "grid_row": 23,
+    "grid_col": 6,
+    "avg_speed_kmh": 13.994193687686137,
+    "points_count": 13
+  },
+  "20,19": {
+    "grid_row": 20,
+    "grid_col": 19,
+    "avg_speed_kmh": 7.9050273236071,
+    "points_count": 2025
+  },
+  "23,15": {
+    "grid_row": 23,
+    "grid_col": 15,
+    "avg_speed_kmh": 7.87050140022436,
+    "points_count": 540
+  },
+  "12,15": {
+    "grid_row": 12,
+    "grid_col": 15,
+    "avg_speed_kmh": 15.781343132140723,
+    "points_count": 1113
+  },
+  "20,28": {
+    "grid_row": 20,
+    "grid_col": 28,
+    "avg_speed_kmh": 1.1818654918017684,
+    "points_count": 617
+  },
+  "4,11": {
+    "grid_row": 4,
+    "grid_col": 11,
+    "avg_speed_kmh": 56.041880924895864,
+    "points_count": 39
+  },
+  "23,24": {
+    "grid_row": 23,
+    "grid_col": 24,
+    "avg_speed_kmh": 12.822331829358184,
+    "points_count": 770
+  },
+  "12,24": {
+    "grid_row": 12,
+    "grid_col": 24,
+    "avg_speed_kmh": 7.945076010053178,
+    "points_count": 188
+  },
+  "13,7": {
+    "grid_row": 13,
+    "grid_col": 7,
+    "avg_speed_kmh": 18.433335837703616,
+    "points_count": 105
+  },
+  "24,7": {
+    "grid_row": 24,
+    "grid_col": 7,
+    "avg_speed_kmh": 9.562858059916607,
+    "points_count": 29
+  },
+  "16,3": {
+    "grid_row": 16,
+    "grid_col": 3,
+    "avg_speed_kmh": 2.3424291985571863,
+    "points_count": 1745
+  },
+  "13,16": {
+    "grid_row": 13,
+    "grid_col": 16,
+    "avg_speed_kmh": 14.368871593802712,
+    "points_count": 5275
+  },
+  "24,16": {
+    "grid_row": 24,
+    "grid_col": 16,
+    "avg_speed_kmh": 0.4386238036693517,
+    "points_count": 57
+  },
+  "1,14": {
+    "grid_row": 1,
+    "grid_col": 14,
+    "avg_speed_kmh": 59.52652065531428,
+    "points_count": 3
+  },
+  "16,12": {
+    "grid_row": 16,
+    "grid_col": 12,
+    "avg_speed_kmh": 15.417816167948105,
+    "points_count": 5317
+  },
+  "24,25": {
+    "grid_row": 24,
+    "grid_col": 25,
+    "avg_speed_kmh": 62.5957228161846,
+    "points_count": 1
+  },
+  "16,21": {
+    "grid_row": 16,
+    "grid_col": 21,
+    "avg_speed_kmh": 20.892378334064283,
+    "points_count": 91
+  },
+  "17,4": {
+    "grid_row": 17,
+    "grid_col": 4,
+    "avg_speed_kmh": 0.9453001227849241,
+    "points_count": 744
+  },
+  "5,2": {
+    "grid_row": 5,
+    "grid_col": 2,
+    "avg_speed_kmh": 34.32379428996148,
+    "points_count": 25
+  },
+  "28,4": {
+    "grid_row": 28,
+    "grid_col": 4,
+    "avg_speed_kmh": 20.25821499667457,
+    "points_count": 11
+  },
+  "5,11": {
+    "grid_row": 5,
+    "grid_col": 11,
+    "avg_speed_kmh": 58.859835646650616,
+    "points_count": 29
+  },
+  "9,9": {
+    "grid_row": 9,
+    "grid_col": 9,
+    "avg_speed_kmh": 31.6464112323742,
+    "points_count": 7
+  },
+  "19,13": {
+    "grid_row": 19,
+    "grid_col": 13,
+    "avg_speed_kmh": 13.332124207118778,
+    "points_count": 1896
+  },
+  "8,13": {
+    "grid_row": 8,
+    "grid_col": 13,
+    "avg_speed_kmh": 28.032156515768005,
+    "points_count": 64
+  },
+  "8,22": {
+    "grid_row": 8,
+    "grid_col": 22,
+    "avg_speed_kmh": 40.0966391122732,
+    "points_count": 17
+  },
+  "19,22": {
+    "grid_row": 19,
+    "grid_col": 22,
+    "avg_speed_kmh": 35.21406613597089,
+    "points_count": 3
+  },
+  "11,18": {
+    "grid_row": 11,
+    "grid_col": 18,
+    "avg_speed_kmh": 15.707659247156451,
+    "points_count": 751
+  },
+  "0,27": {
+    "grid_row": 0,
+    "grid_col": 27,
+    "avg_speed_kmh": 11.420443130294377,
+    "points_count": 25
+  },
+  "11,27": {
+    "grid_row": 11,
+    "grid_col": 27,
+    "avg_speed_kmh": 62.77036538869727,
+    "points_count": 2
+  },
+  "20,5": {
+    "grid_row": 20,
+    "grid_col": 5,
+    "avg_speed_kmh": 51.06890943822527,
+    "points_count": 6
+  },
+  "20,14": {
+    "grid_row": 20,
+    "grid_col": 14,
+    "avg_speed_kmh": 7.807707350112803,
+    "points_count": 137
+  },
+  "12,10": {
+    "grid_row": 12,
+    "grid_col": 10,
+    "avg_speed_kmh": 17.774391102733517,
+    "points_count": 1265
+  },
+  "23,10": {
+    "grid_row": 23,
+    "grid_col": 10,
+    "avg_speed_kmh": 26.728365611404815,
+    "points_count": 69
+  },
+  "20,23": {
+    "grid_row": 20,
+    "grid_col": 23,
+    "avg_speed_kmh": 43.259868370355505,
+    "points_count": 62
+  },
+  "4,6": {
+    "grid_row": 4,
+    "grid_col": 6,
+    "avg_speed_kmh": 32.976242335141905,
+    "points_count": 2
+  },
+  "12,19": {
+    "grid_row": 12,
+    "grid_col": 19,
+    "avg_speed_kmh": 34.96035673851513,
+    "points_count": 79
+  },
+  "23,19": {
+    "grid_row": 23,
+    "grid_col": 19,
+    "avg_speed_kmh": 23.293678429219728,
+    "points_count": 63
+  },
+  "4,15": {
+    "grid_row": 4,
+    "grid_col": 15,
+    "avg_speed_kmh": 53.4709381880972,
+    "points_count": 11
+  },
+  "23,28": {
+    "grid_row": 23,
+    "grid_col": 28,
+    "avg_speed_kmh": 5.641662760073818,
+    "points_count": 567
+  },
+  "12,28": {
+    "grid_row": 12,
+    "grid_col": 28,
+    "avg_speed_kmh": 47.00518140365525,
+    "points_count": 25
+  },
+  "4,24": {
+    "grid_row": 4,
+    "grid_col": 24,
+    "avg_speed_kmh": 2.2218601034764536,
+    "points_count": 72
+  },
+  "13,2": {
+    "grid_row": 13,
+    "grid_col": 2,
+    "avg_speed_kmh": 21.65786066771693,
+    "points_count": 1
+  },
+  "13,11": {
+    "grid_row": 13,
+    "grid_col": 11,
+    "avg_speed_kmh": 13.303023602352113,
+    "points_count": 3533
+  },
+  "24,11": {
+    "grid_row": 24,
+    "grid_col": 11,
+    "avg_speed_kmh": 14.428056809969625,
+    "points_count": 29
+  },
+  "16,7": {
+    "grid_row": 16,
+    "grid_col": 7,
+    "avg_speed_kmh": 20.24039996107886,
+    "points_count": 306
+  },
+  "16,16": {
+    "grid_row": 16,
+    "grid_col": 16,
+    "avg_speed_kmh": 15.730542699986417,
+    "points_count": 10623
+  },
+  "15,20": {
+    "grid_row": 15,
+    "grid_col": 20,
+    "avg_speed_kmh": 16.838550791273825,
+    "points_count": 1813
+  },
+  "26,29": {
+    "grid_row": 26,
+    "grid_col": 29,
+    "avg_speed_kmh": 45.877696395944405,
+    "points_count": 9
+  },
+  "5,6": {
+    "grid_row": 5,
+    "grid_col": 6,
+    "avg_speed_kmh": 0.4191528785246046,
+    "points_count": 1530
+  },
+  "18,25": {
+    "grid_row": 18,
+    "grid_col": 25,
+    "avg_speed_kmh": 1.8896136541918191,
+    "points_count": 1461
+  },
+  "27,3": {
+    "grid_row": 27,
+    "grid_col": 3,
+    "avg_speed_kmh": 42.57794303126667,
+    "points_count": 2
+  },
+  "19,8": {
+    "grid_row": 19,
+    "grid_col": 8,
+    "avg_speed_kmh": 25.074567277482558,
+    "points_count": 1
+  },
+  "19,17": {
+    "grid_row": 19,
+    "grid_col": 17,
+    "avg_speed_kmh": 17.383995074920843,
+    "points_count": 1358
+  },
+  "8,17": {
+    "grid_row": 8,
+    "grid_col": 17,
+    "avg_speed_kmh": 44.05725775065034,
+    "points_count": 23
+  },
+  "11,13": {
+    "grid_row": 11,
+    "grid_col": 13,
+    "avg_speed_kmh": 13.522262041742996,
+    "points_count": 303
+  },
+  "0,13": {
+    "grid_row": 0,
+    "grid_col": 13,
+    "avg_speed_kmh": 53.351745675291376,
+    "points_count": 3
+  },
+  "8,26": {
+    "grid_row": 8,
+    "grid_col": 26,
+    "avg_speed_kmh": 49.34318468397814,
+    "points_count": 2
+  },
+  "11,22": {
+    "grid_row": 11,
+    "grid_col": 22,
+    "avg_speed_kmh": 29.157418179286363,
+    "points_count": 23
+  },
+  "20,9": {
+    "grid_row": 20,
+    "grid_col": 9,
+    "avg_speed_kmh": 22.144709027446797,
+    "points_count": 214
+  },
+  "23,5": {
+    "grid_row": 23,
+    "grid_col": 5,
+    "avg_speed_kmh": 29.16154750929101,
+    "points_count": 5
+  },
+  "12,5": {
+    "grid_row": 12,
+    "grid_col": 5,
+    "avg_speed_kmh": 18.072839199518302,
+    "points_count": 46
+  },
+  "20,18": {
+    "grid_row": 20,
+    "grid_col": 18,
+    "avg_speed_kmh": 27.982153381783384,
+    "points_count": 62
+  },
+  "4,1": {
+    "grid_row": 4,
+    "grid_col": 1,
+    "avg_speed_kmh": 45.76105532341128,
+    "points_count": 3
+  },
+  "12,14": {
+    "grid_row": 12,
+    "grid_col": 14,
+    "avg_speed_kmh": 10.154396623609061,
+    "points_count": 3457
+  },
+  "23,14": {
+    "grid_row": 23,
+    "grid_col": 14,
+    "avg_speed_kmh": 18.694950501300788,
+    "points_count": 20
+  },
+  "4,10": {
+    "grid_row": 4,
+    "grid_col": 10,
+    "avg_speed_kmh": 8.354823726175587,
+    "points_count": 57
+  },
+  "23,23": {
+    "grid_row": 23,
+    "grid_col": 23,
+    "avg_speed_kmh": 9.804997051247545,
+    "points_count": 936
+  },
+  "12,23": {
+    "grid_row": 12,
+    "grid_col": 23,
+    "avg_speed_kmh": 18.702435912539247,
+    "points_count": 67
+  },
+  "4,28": {
+    "grid_row": 4,
+    "grid_col": 28,
+    "avg_speed_kmh": 1.5013467858677885,
+    "points_count": 96
+  },
+  "24,6": {
+    "grid_row": 24,
+    "grid_col": 6,
+    "avg_speed_kmh": 34.52368225676535,
+    "points_count": 3
+  },
+  "16,2": {
+    "grid_row": 16,
+    "grid_col": 2,
+    "avg_speed_kmh": 0.7127068475843432,
+    "points_count": 646
+  },
+  "15,15": {
+    "grid_row": 15,
+    "grid_col": 15,
+    "avg_speed_kmh": 11.54930464883959,
+    "points_count": 12322
+  },
+  "26,15": {
+    "grid_row": 26,
+    "grid_col": 15,
+    "avg_speed_kmh": 4.857295126930951,
+    "points_count": 12
+  },
+  "15,24": {
+    "grid_row": 15,
+    "grid_col": 24,
+    "avg_speed_kmh": 20.872659691834354,
+    "points_count": 351
+  },
+  "26,24": {
+    "grid_row": 26,
+    "grid_col": 24,
+    "avg_speed_kmh": 1.6363929011160143,
+    "points_count": 819
+  },
+  "7,20": {
+    "grid_row": 7,
+    "grid_col": 20,
+    "avg_speed_kmh": 49.61185509299651,
+    "points_count": 4
+  },
+  "18,20": {
+    "grid_row": 18,
+    "grid_col": 20,
+    "avg_speed_kmh": 32.67413857518471,
+    "points_count": 24
+  },
+  "7,29": {
+    "grid_row": 7,
+    "grid_col": 29,
+    "avg_speed_kmh": 9.744884016744924,
+    "points_count": 19
+  },
+  "27,7": {
+    "grid_row": 27,
+    "grid_col": 7,
+    "avg_speed_kmh": 10.06376566674384,
+    "points_count": 283
+  },
+  "8,3": {
+    "grid_row": 8,
+    "grid_col": 3,
+    "avg_speed_kmh": 24.15693710863699,
+    "points_count": 164
+  },
+  "19,3": {
+    "grid_row": 19,
+    "grid_col": 3,
+    "avg_speed_kmh": 39.269930927865104,
+    "points_count": 2
+  },
+  "27,16": {
+    "grid_row": 27,
+    "grid_col": 16,
+    "avg_speed_kmh": 71.44944065607038,
+    "points_count": 1
+  },
+  "19,12": {
+    "grid_row": 19,
+    "grid_col": 12,
+    "avg_speed_kmh": 17.644613147336823,
+    "points_count": 1539
+  },
+  "8,12": {
+    "grid_row": 8,
+    "grid_col": 12,
+    "avg_speed_kmh": 13.191427666528694,
+    "points_count": 713
+  },
+  "11,8": {
+    "grid_row": 11,
+    "grid_col": 8,
+    "avg_speed_kmh": 7.180283352682136,
+    "points_count": 46
+  },
+  "19,21": {
+    "grid_row": 19,
+    "grid_col": 21,
+    "avg_speed_kmh": 45.58503461142901,
+    "points_count": 137
+  },
+  "8,21": {
+    "grid_row": 8,
+    "grid_col": 21,
+    "avg_speed_kmh": 24.81980388691773,
+    "points_count": 75
+  },
+  "11,17": {
+    "grid_row": 11,
+    "grid_col": 17,
+    "avg_speed_kmh": 18.837606021752766,
+    "points_count": 507
+  },
+  "0,26": {
+    "grid_row": 0,
+    "grid_col": 26,
+    "avg_speed_kmh": 4.7853991330987045,
+    "points_count": 30
+  },
+  "11,26": {
+    "grid_row": 11,
+    "grid_col": 26,
+    "avg_speed_kmh": 54.75114606542807,
+    "points_count": 5
+  },
+  "20,4": {
+    "grid_row": 20,
+    "grid_col": 4,
+    "avg_speed_kmh": 24.16033954702642,
+    "points_count": 3
+  },
+  "20,13": {
+    "grid_row": 20,
+    "grid_col": 13,
+    "avg_speed_kmh": 8.073709296884047,
+    "points_count": 308
+  },
+  "12,9": {
+    "grid_row": 12,
+    "grid_col": 9,
+    "avg_speed_kmh": 10.053915814382503,
+    "points_count": 120
+  },
+  "23,9": {
+    "grid_row": 23,
+    "grid_col": 9,
+    "avg_speed_kmh": 27.418751071233462,
+    "points_count": 295
+  },
+  "23,18": {
+    "grid_row": 23,
+    "grid_col": 18,
+    "avg_speed_kmh": 63.8323234417587,
+    "points_count": 21
+  },
+  "4,14": {
+    "grid_row": 4,
+    "grid_col": 14,
+    "avg_speed_kmh": 7.130303197886424,
+    "points_count": 34
+  },
+  "14,27": {
+    "grid_row": 14,
+    "grid_col": 27,
+    "avg_speed_kmh": 36.222440313086864,
+    "points_count": 4
+  },
+  "15,10": {
+    "grid_row": 15,
+    "grid_col": 10,
+    "avg_speed_kmh": 14.201254688690979,
+    "points_count": 5305
+  },
+  "26,10": {
+    "grid_row": 26,
+    "grid_col": 10,
+    "avg_speed_kmh": 31.14881599446466,
+    "points_count": 19
+  },
+  "7,6": {
+    "grid_row": 7,
+    "grid_col": 6,
+    "avg_speed_kmh": 0.0,
+    "points_count": 1
+  },
+  "15,19": {
+    "grid_row": 15,
+    "grid_col": 19,
+    "avg_speed_kmh": 16.711659906287263,
+    "points_count": 2607
+  },
+  "26,19": {
+    "grid_row": 26,
+    "grid_col": 19,
+    "avg_speed_kmh": 63.53391939487307,
+    "points_count": 4
+  },
+  "18,15": {
+    "grid_row": 18,
+    "grid_col": 15,
+    "avg_speed_kmh": 16.745517592100935,
+    "points_count": 5710
+  },
+  "7,15": {
+    "grid_row": 7,
+    "grid_col": 15,
+    "avg_speed_kmh": 0.9160126653690159,
+    "points_count": 1470
+  },
+  "26,28": {
+    "grid_row": 26,
+    "grid_col": 28,
+    "avg_speed_kmh": 9.619441007068373,
+    "points_count": 30
+  },
+  "18,24": {
+    "grid_row": 18,
+    "grid_col": 24,
+    "avg_speed_kmh": 35.967333760430904,
+    "points_count": 32
+  },
+  "7,24": {
+    "grid_row": 7,
+    "grid_col": 24,
+    "avg_speed_kmh": 83.50301182745017,
+    "points_count": 2
+  },
+  "27,2": {
+    "grid_row": 27,
+    "grid_col": 2,
+    "avg_speed_kmh": 33.21640117556361,
+    "points_count": 3
+  },
+  "27,11": {
+    "grid_row": 27,
+    "grid_col": 11,
+    "avg_speed_kmh": 35.59599167608627,
+    "points_count": 2
+  },
+  "8,7": {
+    "grid_row": 8,
+    "grid_col": 7,
+    "avg_speed_kmh": 4.5981300730817845,
+    "points_count": 44
+  },
+  "27,20": {
+    "grid_row": 27,
+    "grid_col": 20,
+    "avg_speed_kmh": 65.8236873835663,
+    "points_count": 1
+  },
+  "11,3": {
+    "grid_row": 11,
+    "grid_col": 3,
+    "avg_speed_kmh": 1.4239852475791506,
+    "points_count": 2208
+  },
+  "19,16": {
+    "grid_row": 19,
+    "grid_col": 16,
+    "avg_speed_kmh": 17.444966527257137,
+    "points_count": 802
+  },
+  "8,16": {
+    "grid_row": 8,
+    "grid_col": 16,
+    "avg_speed_kmh": 48.820299957019465,
+    "points_count": 8
+  },
+  "11,12": {
+    "grid_row": 11,
+    "grid_col": 12,
+    "avg_speed_kmh": 30.83702247157495,
+    "points_count": 519
+  },
+  "0,12": {
+    "grid_row": 0,
+    "grid_col": 12,
+    "avg_speed_kmh": 35.162612567533785,
+    "points_count": 6
+  },
+  "19,25": {
+    "grid_row": 19,
+    "grid_col": 25,
+    "avg_speed_kmh": 42.98536473380137,
+    "points_count": 25
+  },
+  "11,21": {
+    "grid_row": 11,
+    "grid_col": 21,
+    "avg_speed_kmh": 23.609118592778994,
+    "points_count": 64
+  },
+  "12,4": {
+    "grid_row": 12,
+    "grid_col": 4,
+    "avg_speed_kmh": 2.1990795687660025,
+    "points_count": 1347
+  },
+  "25,23": {
+    "grid_row": 25,
+    "grid_col": 23,
+    "avg_speed_kmh": 12.646367478673888,
+    "points_count": 623
+  },
+  "23,4": {
+    "grid_row": 23,
+    "grid_col": 4,
+    "avg_speed_kmh": 24.915585121332132,
+    "points_count": 12
+  },
+  "4,0": {
+    "grid_row": 4,
+    "grid_col": 0,
+    "avg_speed_kmh": 70.87515583997359,
+    "points_count": 1
+  },
+  "4,9": {
+    "grid_row": 4,
+    "grid_col": 9,
+    "avg_speed_kmh": 19.0158244467804,
+    "points_count": 11
+  },
+  "22,17": {
+    "grid_row": 22,
+    "grid_col": 17,
+    "avg_speed_kmh": 38.87985054581066,
+    "points_count": 79
+  },
+  "14,13": {
+    "grid_row": 14,
+    "grid_col": 13,
+    "avg_speed_kmh": 9.910420586481484,
+    "points_count": 13268
+  },
+  "22,26": {
+    "grid_row": 22,
+    "grid_col": 26,
+    "avg_speed_kmh": 51.58826237226702,
+    "points_count": 35
+  },
+  "14,22": {
+    "grid_row": 14,
+    "grid_col": 22,
+    "avg_speed_kmh": 9.871497331583685,
+    "points_count": 233
+  },
+  "15,5": {
+    "grid_row": 15,
+    "grid_col": 5,
+    "avg_speed_kmh": 29.795729568819795,
+    "points_count": 89
+  },
+  "26,5": {
+    "grid_row": 26,
+    "grid_col": 5,
+    "avg_speed_kmh": 34.901542418295364,
+    "points_count": 4
+  },
+  "18,1": {
+    "grid_row": 18,
+    "grid_col": 1,
+    "avg_speed_kmh": 24.40057186955852,
+    "points_count": 3
+  },
+  "7,1": {
+    "grid_row": 7,
+    "grid_col": 1,
+    "avg_speed_kmh": 36.63768617146702,
+    "points_count": 55
+  },
+  "15,14": {
+    "grid_row": 15,
+    "grid_col": 14,
+    "avg_speed_kmh": 11.65359636650408,
+    "points_count": 5463
+  },
+  "26,14": {
+    "grid_row": 26,
+    "grid_col": 14,
+    "avg_speed_kmh": 42.663629020473394,
+    "points_count": 2
+  },
+  "18,10": {
+    "grid_row": 18,
+    "grid_col": 10,
+    "avg_speed_kmh": 22.015290547790787,
+    "points_count": 800
+  },
+  "7,10": {
+    "grid_row": 7,
+    "grid_col": 10,
+    "avg_speed_kmh": 42.55666780135192,
+    "points_count": 2
+  },
+  "15,23": {
+    "grid_row": 15,
+    "grid_col": 23,
+    "avg_speed_kmh": 20.519765227669755,
+    "points_count": 717
+  },
+  "26,23": {
+    "grid_row": 26,
+    "grid_col": 23,
+    "avg_speed_kmh": 14.225292798870253,
+    "points_count": 326
+  },
+  "18,19": {
+    "grid_row": 18,
+    "grid_col": 19,
+    "avg_speed_kmh": 9.915920521977736,
+    "points_count": 476
+  },
+  "7,19": {
+    "grid_row": 7,
+    "grid_col": 19,
+    "avg_speed_kmh": 58.63826577343044,
+    "points_count": 2
+  },
+  "18,28": {
+    "grid_row": 18,
+    "grid_col": 28,
+    "avg_speed_kmh": 46.59746402171846,
+    "points_count": 6
+  },
+  "27,6": {
+    "grid_row": 27,
+    "grid_col": 6,
+    "avg_speed_kmh": 53.26792284328376,
+    "points_count": 28
+  },
+  "8,2": {
+    "grid_row": 8,
+    "grid_col": 2,
+    "avg_speed_kmh": 43.34833611964025,
+    "points_count": 84
+  },
+  "19,11": {
+    "grid_row": 19,
+    "grid_col": 11,
+    "avg_speed_kmh": 16.637658923315758,
+    "points_count": 918
+  },
+  "8,11": {
+    "grid_row": 8,
+    "grid_col": 11,
+    "avg_speed_kmh": 10.9875800615524,
+    "points_count": 41
+  },
+  "11,7": {
+    "grid_row": 11,
+    "grid_col": 7,
+    "avg_speed_kmh": 28.733438466582275,
+    "points_count": 400
+  },
+  "11,16": {
+    "grid_row": 11,
+    "grid_col": 16,
+    "avg_speed_kmh": 11.756607639360219,
+    "points_count": 1047
+  },
+  "10,20": {
+    "grid_row": 10,
+    "grid_col": 20,
+    "avg_speed_kmh": 40.541767791414514,
+    "points_count": 27
+  },
+  "25,18": {
+    "grid_row": 25,
+    "grid_col": 18,
+    "avg_speed_kmh": 23.873532322676766,
+    "points_count": 48
+  },
+  "10,29": {
+    "grid_row": 10,
+    "grid_col": 29,
+    "avg_speed_kmh": 1.0398122824908678,
+    "points_count": 790
+  },
+  "25,27": {
+    "grid_row": 25,
+    "grid_col": 27,
+    "avg_speed_kmh": 30.35428263621396,
+    "points_count": 4
+  },
+  "22,12": {
+    "grid_row": 22,
+    "grid_col": 12,
+    "avg_speed_kmh": 14.027484439261515,
+    "points_count": 112
+  },
+  "14,8": {
+    "grid_row": 14,
+    "grid_col": 8,
+    "avg_speed_kmh": 4.19128292573723,
+    "points_count": 2371
+  },
+  "22,21": {
+    "grid_row": 22,
+    "grid_col": 21,
+    "avg_speed_kmh": 35.69619188069323,
+    "points_count": 103
+  },
+  "14,17": {
+    "grid_row": 14,
+    "grid_col": 17,
+    "avg_speed_kmh": 9.991049067904235,
+    "points_count": 9988
+  },
+  "14,26": {
+    "grid_row": 14,
+    "grid_col": 26,
+    "avg_speed_kmh": 30.068619923465377,
+    "points_count": 10
+  },
+  "15,9": {
+    "grid_row": 15,
+    "grid_col": 9,
+    "avg_speed_kmh": 9.235579115713332,
+    "points_count": 3338
+  },
+  "26,9": {
+    "grid_row": 26,
+    "grid_col": 9,
+    "avg_speed_kmh": 10.352961482665412,
+    "points_count": 129
+  },
+  "7,5": {
+    "grid_row": 7,
+    "grid_col": 5,
+    "avg_speed_kmh": 21.793518146201542,
+    "points_count": 59
+  },
+  "15,18": {
+    "grid_row": 15,
+    "grid_col": 18,
+    "avg_speed_kmh": 17.393523232984066,
+    "points_count": 5012
+  },
+  "26,18": {
+    "grid_row": 26,
+    "grid_col": 18,
+    "avg_speed_kmh": 58.04809780026262,
+    "points_count": 12
+  },
+  "18,14": {
+    "grid_row": 18,
+    "grid_col": 14,
+    "avg_speed_kmh": 14.151706864321056,
+    "points_count": 4148
+  },
+  "7,14": {
+    "grid_row": 7,
+    "grid_col": 14,
+    "avg_speed_kmh": 0.5852918561363585,
+    "points_count": 860
+  },
+  "7,23": {
+    "grid_row": 7,
+    "grid_col": 23,
+    "avg_speed_kmh": 52.4054681806708,
+    "points_count": 12
+  },
+  "18,23": {
+    "grid_row": 18,
+    "grid_col": 23,
+    "avg_speed_kmh": 37.446409880329426,
+    "points_count": 21
+  },
+  "29,29": {
+    "grid_row": 29,
+    "grid_col": 29,
+    "avg_speed_kmh": 7.1226425342600495,
+    "points_count": 6
+  },
+  "21,25": {
+    "grid_row": 21,
+    "grid_col": 25,
+    "avg_speed_kmh": 64.61710290552097,
+    "points_count": 21
+  },
+  "11,2": {
+    "grid_row": 11,
+    "grid_col": 2,
+    "avg_speed_kmh": 10.38434232664841,
+    "points_count": 234
+  },
+  "25,4": {
+    "grid_row": 25,
+    "grid_col": 4,
+    "avg_speed_kmh": 63.38671648232647,
+    "points_count": 2
+  },
+  "10,15": {
+    "grid_row": 10,
+    "grid_col": 15,
+    "avg_speed_kmh": 18.351747492726197,
+    "points_count": 212
+  },
+  "25,13": {
+    "grid_row": 25,
+    "grid_col": 13,
+    "avg_speed_kmh": 53.29108297478682,
+    "points_count": 8
+  },
+  "10,24": {
+    "grid_row": 10,
+    "grid_col": 24,
+    "avg_speed_kmh": 51.14696004515753,
+    "points_count": 4
+  },
+  "25,22": {
+    "grid_row": 25,
+    "grid_col": 22,
+    "avg_speed_kmh": 6.559183986770454,
+    "points_count": 109
+  },
+  "2,29": {
+    "grid_row": 2,
+    "grid_col": 29,
+    "avg_speed_kmh": 0.0,
+    "points_count": 2
+  },
+  "22,7": {
+    "grid_row": 22,
+    "grid_col": 7,
+    "avg_speed_kmh": 1.3809826506739558,
+    "points_count": 1243
+  },
+  "14,3": {
+    "grid_row": 14,
+    "grid_col": 3,
+    "avg_speed_kmh": 18.56790676415701,
+    "points_count": 32
+  },
+  "3,3": {
+    "grid_row": 3,
+    "grid_col": 3,
+    "avg_speed_kmh": 11.956815452342752,
+    "points_count": 14
+  },
+  "22,16": {
+    "grid_row": 22,
+    "grid_col": 16,
+    "avg_speed_kmh": 3.441665302280461,
+    "points_count": 754
+  },
+  "14,12": {
+    "grid_row": 14,
+    "grid_col": 12,
+    "avg_speed_kmh": 11.300033157730258,
+    "points_count": 11481
+  },
+  "3,12": {
+    "grid_row": 3,
+    "grid_col": 12,
+    "avg_speed_kmh": 53.88080421161893,
+    "points_count": 20
+  },
+  "22,25": {
+    "grid_row": 22,
+    "grid_col": 25,
+    "avg_speed_kmh": 34.209150258809956,
+    "points_count": 34
+  },
+  "14,21": {
+    "grid_row": 14,
+    "grid_col": 21,
+    "avg_speed_kmh": 15.847298719853553,
+    "points_count": 43
+  },
+  "15,4": {
+    "grid_row": 15,
+    "grid_col": 4,
+    "avg_speed_kmh": 19.311993473908867,
+    "points_count": 42
+  },
+  "18,0": {
+    "grid_row": 18,
+    "grid_col": 0,
+    "avg_speed_kmh": 15.282570328163118,
+    "points_count": 3
+  },
+  "7,0": {
+    "grid_row": 7,
+    "grid_col": 0,
+    "avg_speed_kmh": 16.492466578568106,
+    "points_count": 183
+  },
+  "15,13": {
+    "grid_row": 15,
+    "grid_col": 13,
+    "avg_speed_kmh": 14.261066434346086,
+    "points_count": 10950
+  },
+  "26,13": {
+    "grid_row": 26,
+    "grid_col": 13,
+    "avg_speed_kmh": 39.22368850835577,
+    "points_count": 3
+  },
+  "18,9": {
+    "grid_row": 18,
+    "grid_col": 9,
+    "avg_speed_kmh": 24.93151034177273,
+    "points_count": 172
+  },
+  "7,9": {
+    "grid_row": 7,
+    "grid_col": 9,
+    "avg_speed_kmh": 45.56193431391213,
+    "points_count": 2
+  },
+  "18,18": {
+    "grid_row": 18,
+    "grid_col": 18,
+    "avg_speed_kmh": 16.990616729360813,
+    "points_count": 5103
+  },
+  "21,11": {
+    "grid_row": 21,
+    "grid_col": 11,
+    "avg_speed_kmh": 15.73593520709715,
+    "points_count": 1209
+  },
+  "29,24": {
+    "grid_row": 29,
+    "grid_col": 24,
+    "avg_speed_kmh": 16.105247925512817,
+    "points_count": 6
+  },
+  "6,22": {
+    "grid_row": 6,
+    "grid_col": 22,
+    "avg_speed_kmh": 24.719453376657704,
+    "points_count": 33
+  },
+  "21,20": {
+    "grid_row": 21,
+    "grid_col": 20,
+    "avg_speed_kmh": 24.88762631212966,
+    "points_count": 918
+  },
+  "21,29": {
+    "grid_row": 21,
+    "grid_col": 29,
+    "avg_speed_kmh": 40.198784587090614,
+    "points_count": 34
+  },
+  "10,1": {
+    "grid_row": 10,
+    "grid_col": 1,
+    "avg_speed_kmh": 28.447388368528962,
+    "points_count": 12
+  },
+  "10,10": {
+    "grid_row": 10,
+    "grid_col": 10,
+    "avg_speed_kmh": 4.026804910381016,
+    "points_count": 1386
+  },
+  "25,8": {
+    "grid_row": 25,
+    "grid_col": 8,
+    "avg_speed_kmh": 53.82102026369408,
+    "points_count": 86
+  },
+  "2,6": {
+    "grid_row": 2,
+    "grid_col": 6,
+    "avg_speed_kmh": 0.0,
+    "points_count": 1
+  },
+  "10,19": {
+    "grid_row": 10,
+    "grid_col": 19,
+    "avg_speed_kmh": 24.19335339076925,
+    "points_count": 268
+  },
+  "7,8": {
+    "grid_row": 7,
+    "grid_col": 8,
+    "avg_speed_kmh": 37.43574954165315,
+    "points_count": 8
+  },
+  "2,15": {
+    "grid_row": 2,
+    "grid_col": 15,
+    "avg_speed_kmh": 9.29298706864861,
+    "points_count": 60
+  },
+  "25,17": {
+    "grid_row": 25,
+    "grid_col": 17,
+    "avg_speed_kmh": 39.50826614292631,
+    "points_count": 2
+  },
+  "10,28": {
+    "grid_row": 10,
+    "grid_col": 28,
+    "avg_speed_kmh": 38.48499455039544,
+    "points_count": 2
+  },
+  "25,26": {
+    "grid_row": 25,
+    "grid_col": 26,
+    "avg_speed_kmh": 4.321236268825711,
+    "points_count": 52
+  },
+  "22,11": {
+    "grid_row": 22,
+    "grid_col": 11,
+    "avg_speed_kmh": 31.37219314756744,
+    "points_count": 89
+  },
+  "14,7": {
+    "grid_row": 14,
+    "grid_col": 7,
+    "avg_speed_kmh": 38.881878033887816,
+    "points_count": 165
+  },
+  "3,7": {
+    "grid_row": 3,
+    "grid_col": 7,
+    "avg_speed_kmh": 8.759296892019568,
+    "points_count": 17
+  },
+  "22,20": {
+    "grid_row": 22,
+    "grid_col": 20,
+    "avg_speed_kmh": 35.07919075413422,
+    "points_count": 482
+  },
+  "14,16": {
+    "grid_row": 14,
+    "grid_col": 16,
+    "avg_speed_kmh": 16.209537096007736,
+    "points_count": 7156
+  },
+  "14,25": {
+    "grid_row": 14,
+    "grid_col": 25,
+    "avg_speed_kmh": 14.889686433660529,
+    "points_count": 149
+  },
+  "3,25": {
+    "grid_row": 3,
+    "grid_col": 25,
+    "avg_speed_kmh": 51.19113394964152,
+    "points_count": 1
+  },
+  "17,18": {
+    "grid_row": 17,
+    "grid_col": 18,
+    "avg_speed_kmh": 12.525753330828671,
+    "points_count": 3994
+  },
+  "17,27": {
+    "grid_row": 17,
+    "grid_col": 27,
+    "avg_speed_kmh": 11.670080793168822,
+    "points_count": 20
+  },
+  "28,27": {
+    "grid_row": 28,
+    "grid_col": 27,
+    "avg_speed_kmh": 1.2769882923008438,
+    "points_count": 21
+  },
+  "7,4": {
+    "grid_row": 7,
+    "grid_col": 4,
+    "avg_speed_kmh": 26.52125511210982,
+    "points_count": 23
+  },
+  "9,23": {
+    "grid_row": 9,
+    "grid_col": 23,
+    "avg_speed_kmh": 36.91182652058324,
+    "points_count": 1
+  },
+  "29,1": {
+    "grid_row": 29,
+    "grid_col": 1,
+    "avg_speed_kmh": 52.016809950609215,
+    "points_count": 1
+  },
+  "26,12": {
+    "grid_row": 26,
+    "grid_col": 12,
+    "avg_speed_kmh": 52.746077318340554,
+    "points_count": 3
+  },
+  "6,8": {
+    "grid_row": 6,
+    "grid_col": 8,
+    "avg_speed_kmh": 65.4178449545697,
+    "points_count": 1
+  },
+  "21,6": {
+    "grid_row": 21,
+    "grid_col": 6,
+    "avg_speed_kmh": 19.703456863641918,
+    "points_count": 36
+  },
+  "6,17": {
+    "grid_row": 6,
+    "grid_col": 17,
+    "avg_speed_kmh": 11.843687313825317,
+    "points_count": 7
+  },
+  "21,15": {
+    "grid_row": 21,
+    "grid_col": 15,
+    "avg_speed_kmh": 11.173221658184103,
+    "points_count": 1601
+  },
+  "29,28": {
+    "grid_row": 29,
+    "grid_col": 28,
+    "avg_speed_kmh": 61.193260615044295,
+    "points_count": 3
+  },
+  "21,24": {
+    "grid_row": 21,
+    "grid_col": 24,
+    "avg_speed_kmh": 53.202930339219044,
+    "points_count": 33
+  },
+  "10,5": {
+    "grid_row": 10,
+    "grid_col": 5,
+    "avg_speed_kmh": 50.20847603051291,
+    "points_count": 69
+  },
+  "2,1": {
+    "grid_row": 2,
+    "grid_col": 1,
+    "avg_speed_kmh": 39.909062686735446,
+    "points_count": 17
+  },
+  "10,14": {
+    "grid_row": 10,
+    "grid_col": 14,
+    "avg_speed_kmh": 6.660162243129251,
+    "points_count": 240
+  },
+  "25,12": {
+    "grid_row": 25,
+    "grid_col": 12,
+    "avg_speed_kmh": 31.105073611117,
+    "points_count": 13
+  },
+  "2,10": {
+    "grid_row": 2,
+    "grid_col": 10,
+    "avg_speed_kmh": 7.087452293562202,
+    "points_count": 11
+  },
+  "2,28": {
+    "grid_row": 2,
+    "grid_col": 28,
+    "avg_speed_kmh": 12.336429009452795,
+    "points_count": 5
+  },
+  "22,6": {
+    "grid_row": 22,
+    "grid_col": 6,
+    "avg_speed_kmh": 18.49869916170931,
+    "points_count": 5
+  },
+  "13,25": {
+    "grid_row": 13,
+    "grid_col": 25,
+    "avg_speed_kmh": 4.017657889588212,
+    "points_count": 526
+  },
+  "14,2": {
+    "grid_row": 14,
+    "grid_col": 2,
+    "avg_speed_kmh": 25.993197969904802,
+    "points_count": 2
+  },
+  "3,2": {
+    "grid_row": 3,
+    "grid_col": 2,
+    "avg_speed_kmh": 25.860887332903495,
+    "points_count": 15
+  },
+  "14,11": {
+    "grid_row": 14,
+    "grid_col": 11,
+    "avg_speed_kmh": 12.063565344389865,
+    "points_count": 10383
+  },
+  "3,11": {
+    "grid_row": 3,
+    "grid_col": 11,
+    "avg_speed_kmh": 31.572468768030024,
+    "points_count": 12
+  },
+  "17,13": {
+    "grid_row": 17,
+    "grid_col": 13,
+    "avg_speed_kmh": 19.344146977931693,
+    "points_count": 5893
+  },
+  "28,22": {
+    "grid_row": 28,
+    "grid_col": 22,
+    "avg_speed_kmh": 62.881946626187656,
+    "points_count": 5
+  },
+  "17,22": {
+    "grid_row": 17,
+    "grid_col": 22,
+    "avg_speed_kmh": 37.69662949635594,
+    "points_count": 12
+  },
+  "9,18": {
+    "grid_row": 9,
+    "grid_col": 18,
+    "avg_speed_kmh": 11.397404335856185,
+    "points_count": 91
+  },
+  "9,27": {
+    "grid_row": 9,
+    "grid_col": 27,
+    "avg_speed_kmh": 8.663868681780029,
+    "points_count": 1
+  },
+  "6,3": {
+    "grid_row": 6,
+    "grid_col": 3,
+    "avg_speed_kmh": 48.0816983909462,
+    "points_count": 23
+  },
+  "6,12": {
+    "grid_row": 6,
+    "grid_col": 12,
+    "avg_speed_kmh": 57.47937815611596,
+    "points_count": 12
+  },
+  "21,10": {
+    "grid_row": 21,
+    "grid_col": 10,
+    "avg_speed_kmh": 26.310888056699582,
+    "points_count": 42
+  },
+  "29,23": {
+    "grid_row": 29,
+    "grid_col": 23,
+    "avg_speed_kmh": 37.469043028947965,
+    "points_count": 93
+  },
+  "6,21": {
+    "grid_row": 6,
+    "grid_col": 21,
+    "avg_speed_kmh": 48.15313634313108,
+    "points_count": 18
+  },
+  "21,19": {
+    "grid_row": 21,
+    "grid_col": 19,
+    "avg_speed_kmh": 27.044406607670336,
+    "points_count": 72
+  },
+  "21,28": {
+    "grid_row": 21,
+    "grid_col": 28,
+    "avg_speed_kmh": 6.228956882654806,
+    "points_count": 354
+  },
+  "10,0": {
+    "grid_row": 10,
+    "grid_col": 0,
+    "avg_speed_kmh": 19.49583223593687,
+    "points_count": 5
+  },
+  "10,9": {
+    "grid_row": 10,
+    "grid_col": 9,
+    "avg_speed_kmh": 45.63687102478206,
+    "points_count": 53
+  },
+  "25,7": {
+    "grid_row": 25,
+    "grid_col": 7,
+    "avg_speed_kmh": 24.43091952982908,
+    "points_count": 9
+  },
+  "2,5": {
+    "grid_row": 2,
+    "grid_col": 5,
+    "avg_speed_kmh": 1.2102231695169394,
+    "points_count": 1
+  },
+  "10,18": {
+    "grid_row": 10,
+    "grid_col": 18,
+    "avg_speed_kmh": 12.769620620232113,
+    "points_count": 318
+  },
+  "2,14": {
+    "grid_row": 2,
+    "grid_col": 14,
+    "avg_speed_kmh": 50.06071847881963,
+    "points_count": 3
+  },
+  "25,16": {
+    "grid_row": 25,
+    "grid_col": 16,
+    "avg_speed_kmh": 45.37734541561523,
+    "points_count": 3
+  },
+  "13,20": {
+    "grid_row": 13,
+    "grid_col": 20,
+    "avg_speed_kmh": 41.20788586598745,
+    "points_count": 78
+  },
+  "24,20": {
+    "grid_row": 24,
+    "grid_col": 20,
+    "avg_speed_kmh": 38.99447752227267,
+    "points_count": 29
+  },
+  "24,29": {
+    "grid_row": 24,
+    "grid_col": 29,
+    "avg_speed_kmh": 38.19887874523627,
+    "points_count": 73
+  },
+  "1,27": {
+    "grid_row": 1,
+    "grid_col": 27,
+    "avg_speed_kmh": 33.93099964147883,
+    "points_count": 4
+  },
+  "14,6": {
+    "grid_row": 14,
+    "grid_col": 6,
+    "avg_speed_kmh": 25.640606345746313,
+    "points_count": 101
+  },
+  "16,25": {
+    "grid_row": 16,
+    "grid_col": 25,
+    "avg_speed_kmh": 0.8818677337233082,
+    "points_count": 1427
+  },
+  "13,29": {
+    "grid_row": 13,
+    "grid_col": 29,
+    "avg_speed_kmh": 18.50004935845046,
+    "points_count": 11
+  },
+  "17,8": {
+    "grid_row": 17,
+    "grid_col": 8,
+    "avg_speed_kmh": 19.417756045124722,
+    "points_count": 175
+  },
+  "28,8": {
+    "grid_row": 28,
+    "grid_col": 8,
+    "avg_speed_kmh": 23.36697124452043,
+    "points_count": 25
+  },
+  "9,4": {
+    "grid_row": 9,
+    "grid_col": 4,
+    "avg_speed_kmh": 29.586372322387536,
+    "points_count": 62
+  },
+  "17,17": {
+    "grid_row": 17,
+    "grid_col": 17,
+    "avg_speed_kmh": 20.915433722169695,
+    "points_count": 5321
+  },
+  "5,15": {
+    "grid_row": 5,
+    "grid_col": 15,
+    "avg_speed_kmh": 42.85643542569646,
+    "points_count": 10
+  },
+  "9,13": {
+    "grid_row": 9,
+    "grid_col": 13,
+    "avg_speed_kmh": 34.181734648496494,
+    "points_count": 30
+  },
+  "5,24": {
+    "grid_row": 5,
+    "grid_col": 24,
+    "avg_speed_kmh": 29.815716974358217,
+    "points_count": 18
+  },
+  "9,22": {
+    "grid_row": 9,
+    "grid_col": 22,
+    "avg_speed_kmh": 43.37150731746794,
+    "points_count": 1
+  },
+  "29,0": {
+    "grid_row": 29,
+    "grid_col": 0,
+    "avg_speed_kmh": 0.0,
+    "points_count": 1
+  },
+  "29,9": {
+    "grid_row": 29,
+    "grid_col": 9,
+    "avg_speed_kmh": 10.807782770205185,
+    "points_count": 14
+  },
+  "6,7": {
+    "grid_row": 6,
+    "grid_col": 7,
+    "avg_speed_kmh": 45.438387132855816,
+    "points_count": 10
+  },
+  "21,5": {
+    "grid_row": 21,
+    "grid_col": 5,
+    "avg_speed_kmh": 18.385620476848707,
+    "points_count": 23
+  },
+  "6,16": {
+    "grid_row": 6,
+    "grid_col": 16,
+    "avg_speed_kmh": 0.7565509283692562,
+    "points_count": 77
+  },
+  "21,14": {
+    "grid_row": 21,
+    "grid_col": 14,
+    "avg_speed_kmh": 29.512040783413866,
+    "points_count": 70
+  },
+  "6,25": {
+    "grid_row": 6,
+    "grid_col": 25,
+    "avg_speed_kmh": 58.082576007615074,
+    "points_count": 11
+  },
+  "21,23": {
+    "grid_row": 21,
+    "grid_col": 23,
+    "avg_speed_kmh": 6.955966263150749,
+    "points_count": 68
+  },
+  "20,27": {
+    "grid_row": 20,
+    "grid_col": 27,
+    "avg_speed_kmh": 1.3832018658748644,
+    "points_count": 1011
+  },
+  "10,4": {
+    "grid_row": 10,
+    "grid_col": 4,
+    "avg_speed_kmh": 25.660247666281375,
+    "points_count": 33
+  },
+  "25,2": {
+    "grid_row": 25,
+    "grid_col": 2,
+    "avg_speed_kmh": 61.381241958487905,
+    "points_count": 1
+  },
+  "10,13": {
+    "grid_row": 10,
+    "grid_col": 13,
+    "avg_speed_kmh": 21.876981201146073,
+    "points_count": 128
+  },
+  "13,6": {
+    "grid_row": 13,
+    "grid_col": 6,
+    "avg_speed_kmh": 12.090894994153745,
+    "points_count": 54
+  },
+  "13,15": {
+    "grid_row": 13,
+    "grid_col": 15,
+    "avg_speed_kmh": 9.691731042402639,
+    "points_count": 11307
+  },
+  "24,15": {
+    "grid_row": 24,
+    "grid_col": 15,
+    "avg_speed_kmh": 18.679169594469382,
+    "points_count": 104
+  },
+  "16,11": {
+    "grid_row": 16,
+    "grid_col": 11,
+    "avg_speed_kmh": 20.116602545317335,
+    "points_count": 5868
+  },
+  "13,24": {
+    "grid_row": 13,
+    "grid_col": 24,
+    "avg_speed_kmh": 19.462131871319546,
+    "points_count": 44
+  },
+  "24,24": {
+    "grid_row": 24,
+    "grid_col": 24,
+    "avg_speed_kmh": 25.038117487141285,
+    "points_count": 40
+  },
+  "16,20": {
+    "grid_row": 16,
+    "grid_col": 20,
+    "avg_speed_kmh": 24.449512379661606,
+    "points_count": 319
+  },
+  "16,29": {
+    "grid_row": 16,
+    "grid_col": 29,
+    "avg_speed_kmh": 29.086799332796712,
+    "points_count": 12
+  },
+  "17,3": {
+    "grid_row": 17,
+    "grid_col": 3,
+    "avg_speed_kmh": 0.9174341110068356,
+    "points_count": 1993
+  },
+  "5,1": {
+    "grid_row": 5,
+    "grid_col": 1,
+    "avg_speed_kmh": 38.33989231942482,
+    "points_count": 2
+  },
+  "28,3": {
+    "grid_row": 28,
+    "grid_col": 3,
+    "avg_speed_kmh": 76.17045914521863,
+    "points_count": 1
+  },
+  "17,12": {
+    "grid_row": 17,
+    "grid_col": 12,
+    "avg_speed_kmh": 14.178934696622225,
+    "points_count": 5412
+  },
+  "5,10": {
+    "grid_row": 5,
+    "grid_col": 10,
+    "avg_speed_kmh": 33.00793700077828,
+    "points_count": 3
+  },
+  "9,8": {
+    "grid_row": 9,
+    "grid_col": 8,
+    "avg_speed_kmh": 20.888452523105077,
+    "points_count": 71
+  },
+  "17,21": {
+    "grid_row": 17,
+    "grid_col": 21,
+    "avg_speed_kmh": 35.3038544739368,
+    "points_count": 89
+  },
+  "28,21": {
+    "grid_row": 28,
+    "grid_col": 21,
+    "avg_speed_kmh": 66.78585354121142,
+    "points_count": 5
+  },
+  "9,17": {
+    "grid_row": 9,
+    "grid_col": 17,
+    "avg_speed_kmh": 20.610560879957223,
+    "points_count": 19
+  },
+  "5,28": {
+    "grid_row": 5,
+    "grid_col": 28,
+    "avg_speed_kmh": 32.56135592325879,
+    "points_count": 1
+  },
+  "9,26": {
+    "grid_row": 9,
+    "grid_col": 26,
+    "avg_speed_kmh": 60.31601368795936,
+    "points_count": 1
+  },
+  "6,2": {
+    "grid_row": 6,
+    "grid_col": 2,
+    "avg_speed_kmh": 21.52834675236302,
+    "points_count": 20
+  },
+  "6,11": {
+    "grid_row": 6,
+    "grid_col": 11,
+    "avg_speed_kmh": 33.78272062244503,
+    "points_count": 47
+  },
+  "21,9": {
+    "grid_row": 21,
+    "grid_col": 9,
+    "avg_speed_kmh": 27.744500390550563,
+    "points_count": 54
+  },
+  "6,20": {
+    "grid_row": 6,
+    "grid_col": 20,
+    "avg_speed_kmh": 35.13673775124619,
+    "points_count": 6
+  },
+  "20,22": {
+    "grid_row": 20,
+    "grid_col": 22,
+    "avg_speed_kmh": 23.576805588607524,
+    "points_count": 248
+  },
+  "12,18": {
+    "grid_row": 12,
+    "grid_col": 18,
+    "avg_speed_kmh": 28.51810088439384,
+    "points_count": 214
+  },
+  "23,27": {
+    "grid_row": 23,
+    "grid_col": 27,
+    "avg_speed_kmh": 18.862506367067944,
+    "points_count": 267
+  },
+  "12,27": {
+    "grid_row": 12,
+    "grid_col": 27,
+    "avg_speed_kmh": 4.872380714095171,
+    "points_count": 44
+  },
+  "4,23": {
+    "grid_row": 4,
+    "grid_col": 23,
+    "avg_speed_kmh": 37.13790127526124,
+    "points_count": 3
+  },
+  "13,1": {
+    "grid_row": 13,
+    "grid_col": 1,
+    "avg_speed_kmh": 21.04366047421039,
+    "points_count": 1
+  },
+  "13,10": {
+    "grid_row": 13,
+    "grid_col": 10,
+    "avg_speed_kmh": 20.92209907740717,
+    "points_count": 2194
+  },
+  "24,10": {
+    "grid_row": 24,
+    "grid_col": 10,
+    "avg_speed_kmh": 21.388078184167423,
+    "points_count": 55
+  },
+  "16,6": {
+    "grid_row": 16,
+    "grid_col": 6,
+    "avg_speed_kmh": 10.254463057421447,
+    "points_count": 217
+  },
+  "13,19": {
+    "grid_row": 13,
+    "grid_col": 19,
+    "avg_speed_kmh": 20.62245852073239,
+    "points_count": 302
+  },
+  "24,19": {
+    "grid_row": 24,
+    "grid_col": 19,
+    "avg_speed_kmh": 45.617313675389354,
+    "points_count": 19
+  },
+  "16,15": {
+    "grid_row": 16,
+    "grid_col": 15,
+    "avg_speed_kmh": 13.674570604237354,
+    "points_count": 10475
+  },
+  "24,28": {
+    "grid_row": 24,
+    "grid_col": 28,
+    "avg_speed_kmh": 52.225559849546244,
+    "points_count": 34
+  },
+  "13,28": {
+    "grid_row": 13,
+    "grid_col": 28,
+    "avg_speed_kmh": 62.74578365351418,
+    "points_count": 4
+  },
+  "16,24": {
+    "grid_row": 16,
+    "grid_col": 24,
+    "avg_speed_kmh": 30.462191691127348,
+    "points_count": 66
+  },
+  "17,7": {
+    "grid_row": 17,
+    "grid_col": 7,
+    "avg_speed_kmh": 23.505246269452538,
+    "points_count": 87
+  },
+  "28,7": {
+    "grid_row": 28,
+    "grid_col": 7,
+    "avg_speed_kmh": 12.109643903692808,
+    "points_count": 68
+  },
+  "5,5": {
+    "grid_row": 5,
+    "grid_col": 5,
+    "avg_speed_kmh": 34.864786673233986,
+    "points_count": 15
+  },
+  "9,3": {
+    "grid_row": 9,
+    "grid_col": 3,
+    "avg_speed_kmh": 0.40720137784729454,
+    "points_count": 1046
+  },
+  "17,16": {
+    "grid_row": 17,
+    "grid_col": 16,
+    "avg_speed_kmh": 16.603487551254247,
+    "points_count": 6401
+  },
+  "5,14": {
+    "grid_row": 5,
+    "grid_col": 14,
+    "avg_speed_kmh": 52.17487952898528,
+    "points_count": 1
+  },
+  "9,12": {
+    "grid_row": 9,
+    "grid_col": 12,
+    "avg_speed_kmh": 24.334107510206387,
+    "points_count": 414
+  },
+  "5,23": {
+    "grid_row": 5,
+    "grid_col": 23,
+    "avg_speed_kmh": 17.39322672218056,
+    "points_count": 35
+  },
+  "9,21": {
+    "grid_row": 9,
+    "grid_col": 21,
+    "avg_speed_kmh": 30.13172169145856,
+    "points_count": 14
+  },
+  "27,29": {
+    "grid_row": 27,
+    "grid_col": 29,
+    "avg_speed_kmh": 24.260677246445344,
+    "points_count": 7
+  },
+  "6,6": {
+    "grid_row": 6,
+    "grid_col": 6,
+    "avg_speed_kmh": 3.5654251469947074,
+    "points_count": 85
+  },
+  "8,25": {
+    "grid_row": 8,
+    "grid_col": 25,
+    "avg_speed_kmh": 2.75138157495822,
+    "points_count": 3
+  },
+  "21,4": {
+    "grid_row": 21,
+    "grid_col": 4,
+    "avg_speed_kmh": 26.535928096602074,
+    "points_count": 25
+  },
+  "20,8": {
+    "grid_row": 20,
+    "grid_col": 8,
+    "avg_speed_kmh": 1.669016954488936,
+    "points_count": 1683
+  },
+  "20,17": {
+    "grid_row": 20,
+    "grid_col": 17,
+    "avg_speed_kmh": 24.584827361142477,
+    "points_count": 194
+  },
+  "12,13": {
+    "grid_row": 12,
+    "grid_col": 13,
+    "avg_speed_kmh": 16.574437684858673,
+    "points_count": 1464
+  },
+  "23,13": {
+    "grid_row": 23,
+    "grid_col": 13,
+    "avg_speed_kmh": 21.059770204011247,
+    "points_count": 22
+  },
+  "20,26": {
+    "grid_row": 20,
+    "grid_col": 26,
+    "avg_speed_kmh": 2.2244133276721176,
+    "points_count": 443
+  },
+  "23,22": {
+    "grid_row": 23,
+    "grid_col": 22,
+    "avg_speed_kmh": 33.408618809615064,
+    "points_count": 269
+  },
+  "12,22": {
+    "grid_row": 12,
+    "grid_col": 22,
+    "avg_speed_kmh": 33.44882044373954,
+    "points_count": 24
+  },
+  "4,18": {
+    "grid_row": 4,
+    "grid_col": 18,
+    "avg_speed_kmh": 13.663329482391191,
+    "points_count": 2
+  },
+  "4,27": {
+    "grid_row": 4,
+    "grid_col": 27,
+    "avg_speed_kmh": 87.13864243952658,
+    "points_count": 7
+  },
+  "24,5": {
+    "grid_row": 24,
+    "grid_col": 5,
+    "avg_speed_kmh": 61.26301465499029,
+    "points_count": 1
+  },
+  "13,5": {
+    "grid_row": 13,
+    "grid_col": 5,
+    "avg_speed_kmh": 3.851172267656748,
+    "points_count": 589
+  },
+  "16,1": {
+    "grid_row": 16,
+    "grid_col": 1,
+    "avg_speed_kmh": 0.8523502830828734,
+    "points_count": 13
+  },
+  "13,14": {
+    "grid_row": 13,
+    "grid_col": 14,
+    "avg_speed_kmh": 13.131229872342994,
+    "points_count": 8230
+  },
+  "1,12": {
+    "grid_row": 1,
+    "grid_col": 12,
+    "avg_speed_kmh": 0.3839286328049566,
+    "points_count": 631
+  },
+  "24,14": {
+    "grid_row": 24,
+    "grid_col": 14,
+    "avg_speed_kmh": 14.708651787978315,
+    "points_count": 43
+  },
+  "16,10": {
+    "grid_row": 16,
+    "grid_col": 10,
+    "avg_speed_kmh": 20.103193723354238,
+    "points_count": 2781
+  },
+  "13,23": {
+    "grid_row": 13,
+    "grid_col": 23,
+    "avg_speed_kmh": 29.7221248065561,
+    "points_count": 44
+  },
+  "24,23": {
+    "grid_row": 24,
+    "grid_col": 23,
+    "avg_speed_kmh": 10.481679306506734,
+    "points_count": 522
+  },
+  "16,19": {
+    "grid_row": 16,
+    "grid_col": 19,
+    "avg_speed_kmh": 5.822321103346497,
+    "points_count": 2519
+  },
+  "16,28": {
+    "grid_row": 16,
+    "grid_col": 28,
+    "avg_speed_kmh": 48.879515282349395,
+    "points_count": 12
+  },
+  "17,2": {
+    "grid_row": 17,
+    "grid_col": 2,
+    "avg_speed_kmh": 3.9892554930312434,
+    "points_count": 14
+  },
+  "5,0": {
+    "grid_row": 5,
+    "grid_col": 0,
+    "avg_speed_kmh": 6.540490262621036,
+    "points_count": 9
+  },
+  "17,11": {
+    "grid_row": 17,
+    "grid_col": 11,
+    "avg_speed_kmh": 14.909614653011861,
+    "points_count": 6515
+  },
+  "9,7": {
+    "grid_row": 9,
+    "grid_col": 7,
+    "avg_speed_kmh": 14.763192805111945,
+    "points_count": 110
+  },
+  "9,16": {
+    "grid_row": 9,
+    "grid_col": 16,
+    "avg_speed_kmh": 15.887105454720592,
+    "points_count": 80
+  },
+  "27,15": {
+    "grid_row": 27,
+    "grid_col": 15,
+    "avg_speed_kmh": 26.494133423981275,
+    "points_count": 5
+  },
+  "27,24": {
+    "grid_row": 27,
+    "grid_col": 24,
+    "avg_speed_kmh": 49.172865633140134,
+    "points_count": 46
+  },
+  "6,1": {
+    "grid_row": 6,
+    "grid_col": 1,
+    "avg_speed_kmh": 19.98333911105678,
+    "points_count": 5
+  },
+  "19,20": {
+    "grid_row": 19,
+    "grid_col": 20,
+    "avg_speed_kmh": 52.188758016501744,
+    "points_count": 726
+  },
+  "8,20": {
+    "grid_row": 8,
+    "grid_col": 20,
+    "avg_speed_kmh": 15.180195750553386,
+    "points_count": 66
+  },
+  "8,29": {
+    "grid_row": 8,
+    "grid_col": 29,
+    "avg_speed_kmh": 43.75593835503358,
+    "points_count": 3
+  },
+  "19,29": {
+    "grid_row": 19,
+    "grid_col": 29,
+    "avg_speed_kmh": 2.288851827870407,
+    "points_count": 35
+  },
+  "11,25": {
+    "grid_row": 11,
+    "grid_col": 25,
+    "avg_speed_kmh": 21.720997446862405,
+    "points_count": 2
+  },
+  "0,25": {
+    "grid_row": 0,
+    "grid_col": 25,
+    "avg_speed_kmh": 1.7901585764440067,
+    "points_count": 5
+  },
+  "20,3": {
+    "grid_row": 20,
+    "grid_col": 3,
+    "avg_speed_kmh": 23.7949221944058,
+    "points_count": 1
+  },
+  "20,12": {
+    "grid_row": 20,
+    "grid_col": 12,
+    "avg_speed_kmh": 17.259491801630517,
+    "points_count": 1602
+  },
+  "12,8": {
+    "grid_row": 12,
+    "grid_col": 8,
+    "avg_speed_kmh": 27.897643895366993,
+    "points_count": 291
+  },
+  "23,8": {
+    "grid_row": 23,
+    "grid_col": 8,
+    "avg_speed_kmh": 6.052491552611688,
+    "points_count": 68
+  },
+  "20,21": {
+    "grid_row": 20,
+    "grid_col": 21,
+    "avg_speed_kmh": 39.65393959087632,
+    "points_count": 1409
+  },
+  "4,4": {
+    "grid_row": 4,
+    "grid_col": 4,
+    "avg_speed_kmh": 0.8570239220784044,
+    "points_count": 770
+  },
+  "12,17": {
+    "grid_row": 12,
+    "grid_col": 17,
+    "avg_speed_kmh": 10.745426245862797,
+    "points_count": 1661
+  },
+  "23,17": {
+    "grid_row": 23,
+    "grid_col": 17,
+    "avg_speed_kmh": 42.41910993193146,
+    "points_count": 68
+  },
+  "23,26": {
+    "grid_row": 23,
+    "grid_col": 26,
+    "avg_speed_kmh": 4.367946435784996,
+    "points_count": 1316
+  },
+  "12,26": {
+    "grid_row": 12,
+    "grid_col": 26,
+    "avg_speed_kmh": 47.201334193940646,
+    "points_count": 20
+  },
+  "13,9": {
+    "grid_row": 13,
+    "grid_col": 9,
+    "avg_speed_kmh": 21.835094621465768,
+    "points_count": 1207
+  },
+  "24,9": {
+    "grid_row": 24,
+    "grid_col": 9,
+    "avg_speed_kmh": 49.14056663072399,
+    "points_count": 121
+  },
+  "16,5": {
+    "grid_row": 16,
+    "grid_col": 5,
+    "avg_speed_kmh": 13.1918005229567,
+    "points_count": 139
+  },
+  "13,18": {
+    "grid_row": 13,
+    "grid_col": 18,
+    "avg_speed_kmh": 10.936286718822341,
+    "points_count": 1913
+  },
+  "24,18": {
+    "grid_row": 24,
+    "grid_col": 18,
+    "avg_speed_kmh": 28.322613743004776,
+    "points_count": 14
+  },
+  "16,14": {
+    "grid_row": 16,
+    "grid_col": 14,
+    "avg_speed_kmh": 15.397541562108628,
+    "points_count": 6159
+  },
+  "16,23": {
+    "grid_row": 16,
+    "grid_col": 23,
+    "avg_speed_kmh": 35.510885573757555,
+    "points_count": 1
+  },
+  "26,27": {
+    "grid_row": 26,
+    "grid_col": 27,
+    "avg_speed_kmh": 24.465014219681752,
+    "points_count": 20
+  },
+  "15,27": {
+    "grid_row": 15,
+    "grid_col": 27,
+    "avg_speed_kmh": 19.33182391093016,
+    "points_count": 7
+  },
+  "5,4": {
+    "grid_row": 5,
+    "grid_col": 4,
+    "avg_speed_kmh": 41.612043973829365,
+    "points_count": 15
+  },
+  "9,2": {
+    "grid_row": 9,
+    "grid_col": 2,
+    "avg_speed_kmh": 48.590009502268394,
+    "points_count": 1
+  },
+  "27,10": {
+    "grid_row": 27,
+    "grid_col": 10,
+    "avg_speed_kmh": 6.156710635329059,
+    "points_count": 158
+  },
+  "8,6": {
+    "grid_row": 8,
+    "grid_col": 6,
+    "avg_speed_kmh": 12.924188558162887,
+    "points_count": 48
+  },
+  "27,19": {
+    "grid_row": 27,
+    "grid_col": 19,
+    "avg_speed_kmh": 74.83691588501166,
+    "points_count": 7
+  },
+  "19,15": {
+    "grid_row": 19,
+    "grid_col": 15,
+    "avg_speed_kmh": 25.46554459482311,
+    "points_count": 1220
+  },
+  "8,15": {
+    "grid_row": 8,
+    "grid_col": 15,
+    "avg_speed_kmh": 17.407625324660938,
+    "points_count": 150
+  },
+  "27,28": {
+    "grid_row": 27,
+    "grid_col": 28,
+    "avg_speed_kmh": 2.7417971157320995,
+    "points_count": 5
+  },
+  "11,11": {
+    "grid_row": 11,
+    "grid_col": 11,
+    "avg_speed_kmh": 16.630563850451946,
+    "points_count": 157
+  },
+  "0,11": {
+    "grid_row": 0,
+    "grid_col": 11,
+    "avg_speed_kmh": 6.815834226115161,
+    "points_count": 74
+  },
+  "19,24": {
+    "grid_row": 19,
+    "grid_col": 24,
+    "avg_speed_kmh": 0.5889010593870112,
+    "points_count": 876
+  },
+  "8,24": {
+    "grid_row": 8,
+    "grid_col": 24,
+    "avg_speed_kmh": 48.908748508686735,
+    "points_count": 4
+  },
+  "11,20": {
+    "grid_row": 11,
+    "grid_col": 20,
+    "avg_speed_kmh": 1.3686438453020726,
+    "points_count": 1250
+  },
+  "11,29": {
+    "grid_row": 11,
+    "grid_col": 29,
+    "avg_speed_kmh": 44.48906387726907,
+    "points_count": 17
+  },
+  "20,7": {
+    "grid_row": 20,
+    "grid_col": 7,
+    "avg_speed_kmh": 20.3463388105207,
+    "points_count": 26
+  },
+  "12,3": {
+    "grid_row": 12,
+    "grid_col": 3,
+    "avg_speed_kmh": 7.5304672822178,
+    "points_count": 11
+  },
+  "20,16": {
+    "grid_row": 20,
+    "grid_col": 16,
+    "avg_speed_kmh": 14.564889811189715,
+    "points_count": 94
+  },
+  "12,12": {
+    "grid_row": 12,
+    "grid_col": 12,
+    "avg_speed_kmh": 30.719337637800376,
+    "points_count": 1061
+  },
+  "23,12": {
+    "grid_row": 23,
+    "grid_col": 12,
+    "avg_speed_kmh": 6.647427588344064,
+    "points_count": 71
+  },
+  "20,25": {
+    "grid_row": 20,
+    "grid_col": 25,
+    "avg_speed_kmh": 36.65302665076674,
+    "points_count": 38
+  },
+  "4,8": {
+    "grid_row": 4,
+    "grid_col": 8,
+    "avg_speed_kmh": 11.272471014518215,
+    "points_count": 5
+  },
+  "23,21": {
+    "grid_row": 23,
+    "grid_col": 21,
+    "avg_speed_kmh": 44.9945833840134,
+    "points_count": 372
+  },
+  "12,21": {
+    "grid_row": 12,
+    "grid_col": 21,
+    "avg_speed_kmh": 31.232555864369957,
+    "points_count": 3
+  },
+  "4,17": {
+    "grid_row": 4,
+    "grid_col": 17,
+    "avg_speed_kmh": 10.509564785714499,
+    "points_count": 38
+  },
+  "24,4": {
+    "grid_row": 24,
+    "grid_col": 4,
+    "avg_speed_kmh": 4.630655158138158,
+    "points_count": 4
+  },
+  "13,4": {
+    "grid_row": 13,
+    "grid_col": 4,
+    "avg_speed_kmh": 23.888388636319416,
+    "points_count": 80
+  },
+  "1,11": {
+    "grid_row": 1,
+    "grid_col": 11,
+    "avg_speed_kmh": 73.65449230068486,
+    "points_count": 10
+  },
+  "16,9": {
+    "grid_row": 16,
+    "grid_col": 9,
+    "avg_speed_kmh": 8.602816801587013,
+    "points_count": 1555
+  },
+  "15,22": {
+    "grid_row": 15,
+    "grid_col": 22,
+    "avg_speed_kmh": 12.870886691585024,
+    "points_count": 1354
+  },
+  "26,22": {
+    "grid_row": 26,
+    "grid_col": 22,
+    "avg_speed_kmh": 27.856664047407353,
+    "points_count": 15
+  },
+  "7,18": {
+    "grid_row": 7,
+    "grid_col": 18,
+    "avg_speed_kmh": 51.94670308969775,
+    "points_count": 8
+  },
+  "18,27": {
+    "grid_row": 18,
+    "grid_col": 27,
+    "avg_speed_kmh": 33.588940139516254,
+    "points_count": 10
+  },
+  "27,5": {
+    "grid_row": 27,
+    "grid_col": 5,
+    "avg_speed_kmh": 15.347541387463563,
+    "points_count": 87
+  },
+  "8,1": {
+    "grid_row": 8,
+    "grid_col": 1,
+    "avg_speed_kmh": 0.8402877137902237,
+    "points_count": 905
+  },
+  "27,14": {
+    "grid_row": 27,
+    "grid_col": 14,
+    "avg_speed_kmh": 3.6325158169606833,
+    "points_count": 54
+  },
+  "19,10": {
+    "grid_row": 19,
+    "grid_col": 10,
+    "avg_speed_kmh": 16.839382263190593,
+    "points_count": 876
+  },
+  "8,10": {
+    "grid_row": 8,
+    "grid_col": 10,
+    "avg_speed_kmh": 17.62155276618672,
+    "points_count": 2
+  },
+  "27,23": {
+    "grid_row": 27,
+    "grid_col": 23,
+    "avg_speed_kmh": 4.808901434908715,
+    "points_count": 525
+  },
+  "11,6": {
+    "grid_row": 11,
+    "grid_col": 6,
+    "avg_speed_kmh": 10.39855353928798,
+    "points_count": 691
+  },
+  "19,19": {
+    "grid_row": 19,
+    "grid_col": 19,
+    "avg_speed_kmh": 20.47201058758517,
+    "points_count": 2752
+  },
+  "8,19": {
+    "grid_row": 8,
+    "grid_col": 19,
+    "avg_speed_kmh": 1.3966477633381678,
+    "points_count": 66
+  },
+  "11,15": {
+    "grid_row": 11,
+    "grid_col": 15,
+    "avg_speed_kmh": 12.879209684976432,
+    "points_count": 598
+  },
+  "8,28": {
+    "grid_row": 8,
+    "grid_col": 28,
+    "avg_speed_kmh": 0.0,
+    "points_count": 1
+  },
+  "19,28": {
+    "grid_row": 19,
+    "grid_col": 28,
+    "avg_speed_kmh": 12.254339465944991,
+    "points_count": 30
+  },
+  "11,24": {
+    "grid_row": 11,
+    "grid_col": 24,
+    "avg_speed_kmh": 9.196922493377643,
+    "points_count": 51
+  },
+  "20,11": {
+    "grid_row": 20,
+    "grid_col": 11,
+    "avg_speed_kmh": 17.02765336061829,
+    "points_count": 1099
+  },
+  "12,7": {
+    "grid_row": 12,
+    "grid_col": 7,
+    "avg_speed_kmh": 11.167232560155488,
+    "points_count": 2105
+  },
+  "23,7": {
+    "grid_row": 23,
+    "grid_col": 7,
+    "avg_speed_kmh": 7.083596227534921,
+    "points_count": 40
+  },
+  "4,3": {
+    "grid_row": 4,
+    "grid_col": 3,
+    "avg_speed_kmh": 24.47120436348197,
+    "points_count": 6
+  },
+  "12,16": {
+    "grid_row": 12,
+    "grid_col": 16,
+    "avg_speed_kmh": 14.269085296175557,
+    "points_count": 1956
+  },
+  "23,16": {
+    "grid_row": 23,
+    "grid_col": 16,
+    "avg_speed_kmh": 32.61058439842307,
+    "points_count": 45
+  },
+  "4,12": {
+    "grid_row": 4,
+    "grid_col": 12,
+    "avg_speed_kmh": 66.68411746294487,
+    "points_count": 8
+  },
+  "22,29": {
+    "grid_row": 22,
+    "grid_col": 29,
+    "avg_speed_kmh": 2.101553916417132,
+    "points_count": 703
+  },
+  "16,4": {
+    "grid_row": 16,
+    "grid_col": 4,
+    "avg_speed_kmh": 19.339808941981858,
+    "points_count": 238
+  },
+  "15,8": {
+    "grid_row": 15,
+    "grid_col": 8,
+    "avg_speed_kmh": 7.402949259955369,
+    "points_count": 1836
+  },
+  "26,8": {
+    "grid_row": 26,
+    "grid_col": 8,
+    "avg_speed_kmh": 16.32882073123989,
+    "points_count": 425
+  },
+  "15,17": {
+    "grid_row": 15,
+    "grid_col": 17,
+    "avg_speed_kmh": 13.606719847697713,
+    "points_count": 12702
+  },
+  "18,13": {
+    "grid_row": 18,
+    "grid_col": 13,
+    "avg_speed_kmh": 20.134662456224042,
+    "points_count": 4365
+  },
+  "7,13": {
+    "grid_row": 7,
+    "grid_col": 13,
+    "avg_speed_kmh": 43.36662224003581,
+    "points_count": 26
+  },
+  "26,26": {
+    "grid_row": 26,
+    "grid_col": 26,
+    "avg_speed_kmh": 8.29302976769913,
+    "points_count": 73
+  },
+  "15,26": {
+    "grid_row": 15,
+    "grid_col": 26,
+    "avg_speed_kmh": 7.809775181453657,
+    "points_count": 154
+  },
+  "18,22": {
+    "grid_row": 18,
+    "grid_col": 22,
+    "avg_speed_kmh": 36.818151087040725,
+    "points_count": 14
+  },
+  "7,22": {
+    "grid_row": 7,
+    "grid_col": 22,
+    "avg_speed_kmh": 20.15848164023809,
+    "points_count": 37
+  },
+  "27,9": {
+    "grid_row": 27,
+    "grid_col": 9,
+    "avg_speed_kmh": 30.099077931961723,
+    "points_count": 59
+  },
+  "8,5": {
+    "grid_row": 8,
+    "grid_col": 5,
+    "avg_speed_kmh": 14.381281591895053,
+    "points_count": 299
+  },
+  "27,18": {
+    "grid_row": 27,
+    "grid_col": 18,
+    "avg_speed_kmh": 80.70445853037592,
+    "points_count": 1
+  },
+  "0,1": {
+    "grid_row": 0,
+    "grid_col": 1,
+    "avg_speed_kmh": 47.032620153012545,
+    "points_count": 7
+  },
+  "11,1": {
+    "grid_row": 11,
+    "grid_col": 1,
+    "avg_speed_kmh": 23.726521099638564,
+    "points_count": 1
+  },
+  "19,14": {
+    "grid_row": 19,
+    "grid_col": 14,
+    "avg_speed_kmh": 34.409230375237186,
+    "points_count": 245
+  },
+  "8,14": {
+    "grid_row": 8,
+    "grid_col": 14,
+    "avg_speed_kmh": 7.452682272651805,
+    "points_count": 191
+  },
+  "11,10": {
+    "grid_row": 11,
+    "grid_col": 10,
+    "avg_speed_kmh": 24.096634325550454,
+    "points_count": 195
+  },
+  "19,23": {
+    "grid_row": 19,
+    "grid_col": 23,
+    "avg_speed_kmh": 16.770586221391827,
+    "points_count": 125
+  },
+  "8,23": {
+    "grid_row": 8,
+    "grid_col": 23,
+    "avg_speed_kmh": 5.222114990242141,
+    "points_count": 10
+  },
+  "11,19": {
+    "grid_row": 11,
+    "grid_col": 19,
+    "avg_speed_kmh": 24.30285407276507,
+    "points_count": 148
+  },
+  "11,28": {
+    "grid_row": 11,
+    "grid_col": 28,
+    "avg_speed_kmh": 36.60839730592822,
+    "points_count": 17
+  },
+  "0,28": {
+    "grid_row": 0,
+    "grid_col": 28,
+    "avg_speed_kmh": 16.691782386113033,
+    "points_count": 1
+  },
+  "20,6": {
+    "grid_row": 20,
+    "grid_col": 6,
+    "avg_speed_kmh": 29.689173538879118,
+    "points_count": 18
+  },
+  "12,2": {
+    "grid_row": 12,
+    "grid_col": 2,
+    "avg_speed_kmh": 1.316011328277304,
+    "points_count": 11
+  },
+  "12,11": {
+    "grid_row": 12,
+    "grid_col": 11,
+    "avg_speed_kmh": 16.43357746390421,
+    "points_count": 724
+  },
+  "23,11": {
+    "grid_row": 23,
+    "grid_col": 11,
+    "avg_speed_kmh": 12.621401327440795,
+    "points_count": 7
+  },
+  "4,7": {
+    "grid_row": 4,
+    "grid_col": 7,
+    "avg_speed_kmh": 41.287105613305684,
+    "points_count": 5
+  },
+  "22,15": {
+    "grid_row": 22,
+    "grid_col": 15,
+    "avg_speed_kmh": 30.01579930429408,
+    "points_count": 214
+  },
+  "22,24": {
+    "grid_row": 22,
+    "grid_col": 24,
+    "avg_speed_kmh": 2.7483724809928183,
+    "points_count": 977
+  },
+  "1,1": {
+    "grid_row": 1,
+    "grid_col": 1,
+    "avg_speed_kmh": 84.98900622754704,
+    "points_count": 6
+  },
+  "14,20": {
+    "grid_row": 14,
+    "grid_col": 20,
+    "avg_speed_kmh": 42.345135331928994,
+    "points_count": 33
+  },
+  "3,29": {
+    "grid_row": 3,
+    "grid_col": 29,
+    "avg_speed_kmh": 31.16038961099929,
+    "points_count": 5
+  },
+  "15,3": {
+    "grid_row": 15,
+    "grid_col": 3,
+    "avg_speed_kmh": 12.687351642741772,
+    "points_count": 58
+  },
+  "15,12": {
+    "grid_row": 15,
+    "grid_col": 12,
+    "avg_speed_kmh": 13.541529812041304,
+    "points_count": 7317
+  },
+  "18,8": {
+    "grid_row": 18,
+    "grid_col": 8,
+    "avg_speed_kmh": 30.585338961751965,
+    "points_count": 93
+  }
+}

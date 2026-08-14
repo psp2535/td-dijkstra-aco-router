@@ -1,0 +1,8 @@
+{
+  "num_nodes": 700,
+  "num_edges": 3926,
+  "average_degree": 5.6085714285714285,
+  "weakly_connected_components": 149,
+  "largest_component_size": 542,
+  "isolated_nodes": 140
+}

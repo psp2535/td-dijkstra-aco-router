@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+release/
+data/raw/
+data/processed/clean_trips.csv
+outputs/
+results/
+ui/node_modules/
+ui/dist/
+*.pdf
+.DS_Store

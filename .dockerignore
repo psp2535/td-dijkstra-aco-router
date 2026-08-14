@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+release/
+data/raw/
+data/processed/clean_trips.csv
+outputs/
+results/
+ui/
+.git/
+.gitignore
+README.md
+notebooks/

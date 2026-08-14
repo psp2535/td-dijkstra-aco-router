@@ -1,0 +1,54 @@
+# Configuration for IM-VRM Baseline Trajectory Preprocessing Pipeline
+seed: 42
+
+data:
+  # Path relative to project root or absolute paths
+  raw_dir: "release/taxi_log_2008_by_id"
+  processed_dir: "data/processed"
+  outputs_dir: "outputs"
+
+preprocessing:
+  # Beijing spatial bounding box: [min_lat, min_lon, max_lat, max_lon]
+  bbox: [39.5, 116.0, 40.3, 116.8]
+  
+  # Trajectory cleaning parameters
+  speed_limit_kmh: 120.0
+  min_point_count: 5  # Discard taxis with fewer points than this
+  
+  # Trip segmentation parameters
+  # Split taxi trajectory if there is a gap of more than 20 minutes (1200 seconds)
+  inactivity_threshold_sec: 1200
+
+spatial_grid:
+  # Grid partition dimensions (rows, columns)
+  num_rows: 30
+  num_cols: 30
+  
+  # Speed ratios to classify congestion levels:
+  # Ratio = (current average speed in grid cell) / (free flow speed in grid cell)
+  # - Ratio >= 0.7: FreeFlow (Level 0)
+  # - 0.4 <= Ratio < 0.7: Moderate (Level 1)
+  # - Ratio < 0.4: Congested (Level 2)
+  congestion_threshold_free: 0.7
+  congestion_threshold_moderate: 0.4
+  
+  # Minimum number of measurements to compute congestion statistics for a cell.
+  # If fewer, falls back to free flow speed or average.
+  min_measurements: 2
+
+vehicle_params:
+  # Fuel and carbon coefficients for synthetic vehicle types
+  light_duty:
+    mass_kg: 1500
+    base_fuel_rate_l_per_100km: 7.0
+    load_penalty_factor: 0.05       # increase in fuel consumption per 100kg load (fraction)
+    co2_g_per_liter: 2300.0         # CO2 emissions in grams per liter of fuel
+  heavy_duty:
+    mass_kg: 8000
+    base_fuel_rate_l_per_100km: 25.0
+    load_penalty_factor: 0.08       # increase in fuel consumption per 100kg load (fraction)
+    co2_g_per_liter: 2600.0         # CO2 emissions in grams per liter of fuel
+
+graph:
+  # Grid graph construction parameters
+  min_transitions: 2  # Discard cell transitions with less than this many transitions to reduce noise
