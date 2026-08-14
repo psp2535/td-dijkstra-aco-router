@@ -255,6 +255,17 @@ def solve_tsp_aco(distance_matrix, num_nodes, num_ants=20, max_iter=50):
         
     return best_seq
 
+def find_nearest_node(G, lon, lat):
+    min_dist = float('inf')
+    nearest = None
+    for n, data in G.nodes(data=True):
+        # haversine_distance expects (lat1, lon1, lat2, lon2)
+        d = haversine_distance(lat, lon, data['y'], data['x'])
+        if d < min_dist:
+            min_dist = d
+            nearest = n
+    return nearest
+
 @app.post("/api/compare")
 def compare_routes(req: CompareRequest):
     G = app_state["G"]
@@ -268,7 +279,7 @@ def compare_routes(req: CompareRequest):
             
     target_nodes = []
     for p in input_points:
-        node = ox.nearest_nodes(G, p.lon, p.lat)
+        node = find_nearest_node(G, p.lon, p.lat)
         target_nodes.append(node)
         
     num_targets = len(target_nodes)
