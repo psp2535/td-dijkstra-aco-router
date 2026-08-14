@@ -8,7 +8,7 @@ The IM-VRM framework was introduced in:
 
 ---
 
-## 📖 Theoretical Primitives
+... 📖 Theoretical Primitives
 
 This phase implements the exact data cleaning, kinematic modeling, trip segmentation, spatial binned congestion profiling, grid transition graph construction, and fleet metadata creation required for the routing model.
 
