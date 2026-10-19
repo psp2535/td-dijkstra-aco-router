@@ -1,144 +1,142 @@
-#ACO ENHANCED IM-VRM Reproduction Project (Phase 1 Baseline)
+# FleetMaster Pro — Traffic-Aware Green Route Planner
 
-This repository contains a modular, lightweight Python project structure for reproducing the baseline preprocessing pipeline of the **IM-VRM** (*Intelligent Multi-Depot Vehicle Routing and Management*) model using the Microsoft **T-Drive** taxi trajectory dataset.
+An interactive web app that plans delivery routes on Beijing's real road network and compares a **classical router** against our **traffic-aware, ACO-optimised router**, showing the savings in distance, time, fuel and CO₂.
 
-The IM-VRM framework was introduced in:
-> *"An Intelligent Multi-Depot Vehicle Routing and Management Model for Smart Cities,"*  
-> **IEEE Transactions on Intelligent Transportation Systems** (Volume 26, Issue 6, June 2025).
+🌐 **Live demo:** [fleetmaster-api.vercel.app](https://fleetmaster-api.vercel.app/)
+
+![FleetMaster Pro comparing the classical route (red) with the traffic-aware ACO route (green)](docs/screenshot.png)
+
+This is the deployed web application of our B.Tech project at **ABV-IIITM Gwalior**, *GNN-Enhanced ACO for Dynamic and Green Multi-Depot Vehicle Routing in Smart Cities*. The research code, models and paper are in **[BTP-Project](https://github.com/psp2535/BTP-Project)**.
 
 ---
 
-... 📖 Theoretical Primitives
+## 👥 Team
 
-This phase implements the exact data cleaning, kinematic modeling, trip segmentation, spatial binned congestion profiling, grid transition graph construction, and fleet metadata creation required for the routing model.
+| | Name | GitHub | LinkedIn |
+|:-:|---|---|---|
+| <img src="https://github.com/psp2535.png?size=80" width="60" /> | **Pathange Sai Pranav** | [@psp2535](https://github.com/psp2535) | [pathangesaipranav](https://www.linkedin.com/in/pathangesaipranav/) |
+| <img src="https://github.com/suri5790.png?size=80" width="60" /> | **Chakali Surendra** | [@suri5790](https://github.com/suri5790) | [surendrachakali](https://www.linkedin.com/in/surendrachakali/) |
+| <img src="https://github.com/Satwik2529.png?size=80" width="60" /> | **Duppala Satwik** | [@Satwik2529](https://github.com/Satwik2529) | [satwik2529dsk](https://www.linkedin.com/in/satwik2529dsk/) |
 
-### 1. Geospatial & Kinematic Calculations
-For consecutive GPS logs $P_1(\text{lat}_1, \text{lon}_1)$ and $P_2(\text{lat}_2, \text{lon}_2)$ recorded at times $t_1$ and $t_2$:
-*   **Geodetic Distance ($\Delta d$):** Calculated using the Haversine formula:
-    $$a = \sin^2\left(\frac{\Delta \text{lat}}{2}\right) + \cos(\text{lat}_1)\cos(\text{lat}_2)\sin^2\left(\frac{\Delta \text{lon}}{2}\right)$$
-    $$\Delta d = 2 R \arcsin(\sqrt{a})$$
-    where $R = 6,371,000\text{ meters}$.
-*   **Velocity ($v$):** Computed as $v = \Delta d / \Delta t$, where $\Delta t = t_2 - t_1$. If $v > v_{\text{limit}}$ (e.g., 120 km/h), the destination point is filtered out as a GPS anomaly.
-*   **Acceleration ($a$):** Computed as $a = \frac{v_2 - v_1}{\Delta t}$.
+**Supervisor:** Dr. Bhanu Chander, ABV-IIITM Gwalior
 
-### 2. Green Emission & Fuel Estimation
-To model ecological routing costs, we implement a physics-based load-dependent fuel consumption model:
-*   **Payload Correction:** 
-    $$F_{\text{adj}} = F_{\text{base}} \times \left(1 + \lambda_{\text{load}} \times \frac{\text{Payload}_{\text{kg}}}{100}\right)$$
-    where $F_{\text{base}}$ is the base fuel rate (L/100km) and $\lambda_{\text{load}}$ is the load penalty factor.
-*   **Speed Efficiency Curve:** Vehicles consume fuel less efficiently in stop-and-go conditions or at extreme speeds due to aerodynamic drag. We scale consumption by a U-shaped efficiency multiplier $\eta(v)$:
-    *   $\eta(v) = 2.0$ for $v < 10\text{ km/h}$ (crawl/congestion)
-    *   $\eta(v) = 1.4$ for $10 \le v < 30\text{ km/h}$ (city traffic)
-    *   $\eta(v) = 1.0$ for $30 \le v < 60\text{ km/h}$ (optimum cruise range)
-    *   $\eta(v) = 1.25$ for $60 \le v < 90\text{ km/h}$ (highway speed)
-    *   $\eta(v) = 1.6$ for $v \ge 90\text{ km/h}$ (drag-dominated)
-*   **Step Consumption (L):** $\text{Fuel} = \frac{F_{\text{adj}}}{100} \times \left(\frac{\Delta d}{1000}\right) \times \eta(v)$ (with idle consumption applied when $v \approx 0$).
-*   **Carbon Emissions (g):** $\text{CO}_2 = \text{Fuel} \times \text{CO}_{2,\text{per\_liter}}$.
+---
 
-### 3. Spatial Grid Congestion Labeling
-Beijing is binned into an $N \times M$ grid.
-*   **Free Flow Speed ($V_{\text{ff}}$):** Defined per grid cell as the 90th percentile of all speeds observed in that cell.
-*   **Congestion Ratio ($R_{\text{cong}}$):** For any hour of the day $h$, the ratio is $R_{\text{cong}} = V_{\text{avg}}(h) / V_{\text{ff}}$.
-*   **Discrete Levels:**
-    *   **Level 0 (FreeFlow):** $R_{\text{cong}} \ge 0.7$
-    *   **Level 1 (Moderate):** $0.4 \le R_{\text{cong}} < 0.7$
-    *   **Level 2 (Congested):** $R_{\text{cong}} < 0.4$
+## 🗺️ How to Use
 
-### 4. Grid Transition Graph
-Nodes correspond to visited grid cells $(r, c)$. A directed edge is created from $(r_1, c_1) \to (r_2, c_2)$ if a taxi actually transitions between the two cells in consecutive time steps. Edges are weighted by transition counts and average transition speeds.
+1. Open the [live demo](https://fleetmaster-api.vercel.app/).
+2. **Click the map** to place the depot (first click), then up to 9 delivery stops. Keep points within central Beijing (roughly inside the 4th Ring Road).
+3. Press **Deploy Fleet**.
+4. Compare the two routes. Switch between **Both**, **TD+ACO** and **Static**, and press play in the **Playback Center** to animate the vehicles with live road name, speed and progress.
+
+> The backend runs on Render's free tier and sleeps when idle, so the **first request can take ~40 seconds** while it wakes up.
+
+---
+
+## ⚙️ How It Works
+
+Both algorithms run on the real OpenStreetMap drive network of central Beijing (~15 × 15 km) and visit every stop before returning to the depot.
+
+| | Old algorithm (red) | New algorithm (green) |
+|---|---|---|
+| **Path between stops** | Static Dijkstra (fixed road speeds) | **Time-dependent Dijkstra** — road speeds follow the congestion predicted for the departure hour (08:00) |
+| **Stop order** | Greedy nearest-neighbour | **Max-Min Ant System (ACO)** — 20 ants × 50 iterations |
+| **Traffic awareness** | None | Congestion predictions from our **TCFMu XGBoost** model, trained on Microsoft T-Drive taxi GPS data |
+
+For each route the app reports **distance, travel time, fuel and CO₂**. Fuel uses a load- and speed-dependent model: consumption is lowest at 30–60 km/h and rises sharply in stop-and-go traffic, which is why avoiding congestion saves fuel.
+
+```
+ React + Leaflet UI (Vercel)  ──POST /api/compare──▶  FastAPI backend (Render, Docker)
+                                                      ├─ OSMnx road graph of central Beijing
+                                                      ├─ TCFMu congestion predictions
+                                                      ├─ Static & time-dependent Dijkstra
+                                                      └─ Greedy vs MMAS-ACO stop ordering
+```
+
+---
+
+## 🔌 API
+
+### `POST /api/compare`
+
+```json
+{
+  "depot":      { "lat": 39.9042, "lon": 116.4074 },
+  "deliveries": [ { "lat": 39.9289, "lon": 116.3883 },
+                  { "lat": 39.8856, "lon": 116.4317 } ]
+}
+```
+
+All points must lie within **lat 39.83–39.97, lon 116.32–116.48**, otherwise the API returns `400`.
+
+The response has `old_algo` and `new_algo`, each containing:
+- `metrics`: `distance_km`, `duration_sec`, `fuel_l`, `co2_g`, `avg_congestion`, `runtime_sec`
+- `ordered_indices`: the visiting order of the points
+- `segments`: per-road-segment `name`, `length_m`, `duration_sec`, `speed_kmh` and `coords` for drawing and playback
+
+Interactive API docs are served at `/docs` on the backend.
+
+---
+
+## 💻 Run Locally
+
+**Backend** (Python 3.10+):
+
+```bash
+git clone https://github.com/psp2535/td-dijkstra-aco-router.git
+cd td-dijkstra-aco-router
+pip install -r requirements.txt
+uvicorn api_server:app --port 8000
+```
+
+The Beijing road graph and congestion data are included in `data/processed/`, so no download is needed.
+
+**Frontend** (Node.js 20.19+ or 22.12+), in a second terminal:
+
+```bash
+cd ui
+npm install
+npm run dev
+```
+
+Open the URL Vite prints (usually http://localhost:5173). The dev server forwards `/api` requests to the backend on port 8000.
+
+---
+
+## 🚀 Deployment
+
+| Part | Platform | Setup |
+|---|---|---|
+| Frontend | **Vercel** | Root directory `ui`, build `npm run build`, output `dist`. Set `VITE_API_URL` to the backend URL. |
+| Backend | **Render** | Built from the `Dockerfile`; listens on Render's `PORT`. |
+
+Vercel redeploys the frontend on every push to `main`; Render does the same for the backend when auto-deploy is enabled.
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-T-drive Taxi Trajectories/
-├── config/
-│   └── default_config.yaml     # Bounding boxes, thresholds, grid sizes, vehicle parameters
-├── data/
-│   ├── raw/                    # Data directory for raw T-Drive .txt files
-│   └── processed/              # Processed grid statistics, clean trajectories, trip segments
-├── notebooks/
-│   ├── 01_data_exploration.ipynb  # Basic trajectory cleaning and stats exploration
-│   └── 02_grid_analysis.ipynb     # Spatial grid binning and congestion analysis
-├── src/
-│   ├── __init__.py
-│   ├── preprocessing/
-│   │   ├── __init__.py
-│   │   ├── cleaning.py         # Parsing raw logs, geospatial bounds, speed threshold filters
-│   │   └── segmentation.py     # Splitting trajectories into individual trips
-│   ├── features/
-│   │   ├── __init__.py
-│   │   ├── spatial_grid.py     # Map coordinates to NxM grids, aggregate speeds per cell
-│   │   ├── metrics.py          # Delta distance, delta time, velocity, and emissions calculation
-│   │   └── vehicle.py          # Generator for synthetic multi-depot fleet details & capacity metadata
-│   ├── graph/
-│   │   ├── __init__.py
-│   │   └── grid_graph.py       # Construct spatial cell nodes and transition edges
-│   └── utils/
-│       ├── __init__.py
-│       └── helpers.py          # Haversine distance, YAML config loader, logging setup
-├── outputs/                    # Output directory for logs, grid speed matrices, and visualizations
-├── main.py                     # Entry point for baseline processing pipeline
-├── requirements.txt            # Minimal dependencies (numpy, pandas, matplotlib, pyyaml, tqdm)
-└── README.md                   # Instructions for data setup, pipeline stages, and reproduction
+td-dijkstra-aco-router/
+├── api_server.py              # FastAPI backend: /api/compare
+├── Dockerfile                 # Backend container (Render)
+├── requirements.txt           # Backend dependencies
+├── src/models/
+│   ├── osmnx_routing.py       # Static & time-dependent Dijkstra on the OSM graph
+│   ├── mmas_routing.py        # Max-Min Ant System
+│   └── astar_routing.py       # A* routing
+├── data/processed/            # Road graph, congestion predictions, fleet config
+├── config/default_config.yaml # Grid and vehicle parameters
+├── ui/                        # React 19 + Vite + React-Leaflet frontend
+│   └── src/App.jsx            # Map, controls, metrics and playback
+└── docs/screenshot.png
 ```
 
 ---
 
-## ⚙️ Setup and Installation
+## 🛠️ Tech Stack
 
-1.  **Clone the workspace** and ensure Python 3.8+ is installed.
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Setup Dataset:**  
-    By default, the pipeline expects the raw T-Drive trajectory text files inside the directory specified in `config/default_config.yaml` (default: `release/taxi_log_2008_by_id`). Make sure the raw `.txt` files are located there.
-
----
-
-## 🚀 Running the Pipeline
-
-You can run the full pipeline or isolate specific stages using the `--step` argument.
-
-### 1. Run the Entire Preprocessing & Modeling Baseline
-Executes all processing, congestion labeling, graph transitions, and synthetic fleet generation for the default subset of 50 taxis:
-```bash
-python main.py --step all --num-taxis 50
-```
-
-### 2. Run Individual Steps
-*   **Step 1: Trajectory Cleaning, Trip Segmentation & Kinematic features**
-    ```bash
-    python main.py --step preprocess --num-taxis 50
-    ```
-    Outputs processed data to `data/processed/clean_trips.csv`.
-
-*   **Step 2: Calculate Grid-based Congestion Levels**
-    ```bash
-    python main.py --step congestion
-    ```
-    Outputs congestion profiles to `data/processed/grid_congestion_stats.csv`.
-
-*   **Step 3: Construct Grid transition topology**
-    ```bash
-    python main.py --step graph
-    ```
-    Outputs graph connectivity to `data/processed/graph_nodes.json` and `data/processed/graph_edges.csv`.
-
-*   **Step 4: Generate Synthetic Delivery Fleet Profiles**
-    ```bash
-    python main.py --step fleet
-    ```
-    Outputs depot coordinates and vehicle configurations to `data/processed/synthetic_fleet.json`.
-
----
-
-## 🧪 Pipeline Verification
-
-To guarantee correctness, run the programmatic test suite:
-```bash
-python verify_pipeline.py
-```
-This runs the pipeline on a small 5-taxi subset and automatically checks the output schema matching, row sanity, and directory structure.
+**Frontend:** React 19, Vite, Leaflet / React-Leaflet, Turf.js, Axios, Lucide icons
+**Backend:** FastAPI, Uvicorn, OSMnx, NetworkX, NumPy, pandas
+**Map data:** © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors
+**Hosting:** Vercel (frontend), Render (backend)
