@@ -17,6 +17,7 @@ This is the deployed web application of our B.Tech project at **ABV-IIITM Gwalio
 | <img src="https://github.com/psp2535.png?size=80" width="60" /> | **Pathange Sai Pranav** | [@psp2535](https://github.com/psp2535) | [pathangesaipranav](https://www.linkedin.com/in/pathangesaipranav/) |
 | <img src="https://github.com/suri5790.png?size=80" width="60" /> | **Chakali Surendra** | [@suri5790](https://github.com/suri5790) | [surendrachakali](https://www.linkedin.com/in/surendrachakali/) |
 | <img src="https://github.com/Satwik2529.png?size=80" width="60" /> | **Duppala Satwik** | [@Satwik2529](https://github.com/Satwik2529) | [satwik2529dsk](https://www.linkedin.com/in/satwik2529dsk/) |
+| <img src="https://github.com/Sasidhar1906.png?size=80" width="60" /> | **Gedela Sasidhar Chakrapani** | [@Sasidhar1906](https://github.com/Sasidhar1906) | [Sasidhar1906](https://www.linkedin.com/in/gedela-sasidhar-chakrapani-3b2124326/) |
 
 **Supervisor:** Dr. Bhanu Chander, ABV-IIITM Gwalior
 
