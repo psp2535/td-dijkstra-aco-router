@@ -139,5 +139,5 @@ td-dijkstra-aco-router/
 
 **Frontend:** React 19, Vite, Leaflet / React-Leaflet, Turf.js, Axios, Lucide icons
 **Backend:** FastAPI, Uvicorn, OSMnx, NetworkX, NumPy, pandas
-**Map data:** © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors
+**Map data:** © [OpenStreetMap](https://www.openstreetmap.org/copyright)
 **Hosting:** Vercel (frontend), Render (backend)
